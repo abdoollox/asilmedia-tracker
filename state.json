@@ -1,6 +1,9 @@
 {
  "_order": {
   "asilmedia": [
+   "18590",
+   "13644",
+   "17018",
    "15916",
    "18589",
    "18440",
@@ -9,9 +12,7 @@
    "18505",
    "18485",
    "18587",
-   "17018",
    "18561",
-   "13644",
    "18586",
    "18585",
    "18584",
@@ -35,8 +36,7 @@
    "18564",
    "18563",
    "18562",
-   "18494",
-   "18560"
+   "18494"
   ],
   "uzmovi": [
    "8991",
@@ -103,7 +103,7 @@
  },
  "asilmedia": {
   "13644": {
-   "badge": "1-fasl 5-qism",
+   "badge": "1-fasl 6-qism",
    "quality": "1080p, 480p",
    "seen": 1790755193,
    "title": "Yengilmas / Непобедимый / Invincible AQSH seriali"
@@ -115,7 +115,7 @@
    "title": "Jek Richer seriali"
   },
   "17018": {
-   "badge": "4-fasl 7-qism!",
+   "badge": "4-fasl 8-qism!",
    "quality": "1080p, 720p, 480p",
    "seen": 1790755193,
    "title": "Qalqon agentlari"
@@ -322,6 +322,12 @@
    "quality": "1080p, 720p, 480p",
    "seen": 1790755193,
    "title": "Buvimning to'yi / To'y boshlandi buvijon Hind kino 2026"
+  },
+  "18590": {
+   "badge": "",
+   "quality": "1080p, 720p, 480p",
+   "seen": 1790791638,
+   "title": "Jaydari josus / Uquvsiz josus Hind kino 2026"
   }
  },
  "uzmovi": {
