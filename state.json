@@ -1,137 +1,266 @@
 {
+ "_order": {
+  "asilmedia": [
+   "18589",
+   "18440",
+   "18493",
+   "18588",
+   "18505",
+   "18485",
+   "18587",
+   "17018",
+   "18561",
+   "13644",
+   "18586",
+   "18585",
+   "18584",
+   "18583",
+   "18582",
+   "18581",
+   "18580",
+   "18579",
+   "18578",
+   "18577",
+   "18576",
+   "18574",
+   "18572",
+   "18571",
+   "18570",
+   "18569",
+   "18568",
+   "18567",
+   "18566",
+   "18565",
+   "18564",
+   "18563",
+   "18562",
+   "18494",
+   "18560",
+   "18559"
+  ],
+  "uzmovi": [
+   "8990",
+   "8989",
+   "8988",
+   "8983",
+   "8982",
+   "8981",
+   "8980",
+   "8979",
+   "8978",
+   "8973",
+   "8972",
+   "8971",
+   "8970",
+   "8969",
+   "8968",
+   "8967",
+   "8966",
+   "8965",
+   "8964",
+   "8963",
+   "8951",
+   "8950",
+   "8949",
+   "8948",
+   "8947",
+   "8946",
+   "8945",
+   "8944",
+   "8943",
+   "8942",
+   "8941",
+   "8940",
+   "8939",
+   "8938",
+   "8937",
+   "8936",
+   "8935",
+   "8934",
+   "8933",
+   "8932",
+   "8931",
+   "8930",
+   "8929",
+   "8928",
+   "8927",
+   "8926",
+   "8925",
+   "8924",
+   "8922",
+   "8921",
+   "8920",
+   "8919",
+   "8918",
+   "8917",
+   "8916",
+   "8915",
+   "8914",
+   "8913",
+   "8912",
+   "8911"
+  ]
+ },
  "asilmedia": {
   "13644": {
    "badge": "1-fasl 5-qism",
+   "quality": "1080p, 480p",
    "seen": 1790755193,
    "title": "Yengilmas / Непобедимый / Invincible AQSH seriali"
   },
   "17018": {
    "badge": "4-fasl 7-qism!",
+   "quality": "1080p, 720p, 480p",
    "seen": 1790755193,
    "title": "Qalqon agentlari"
   },
   "18440": {
    "badge": "3-fasl 2-qism",
+   "quality": "1080p, 480p",
    "seen": 1790755193,
    "title": "Najot shifoxonasi / Ustoz Kim Koreya seriali 2016"
   },
   "18485": {
    "badge": "",
+   "quality": "1080p, 720p, 480p",
    "seen": 1790755193,
    "title": "Mangus 2026"
   },
   "18493": {
    "badge": "6-qism",
+   "quality": "1080p, 480p",
    "seen": 1790755193,
    "title": "Tungi agent / Tungi qo'riqchi / Tungi tansoqchi 2023 xorij seriali"
   },
   "18494": {
    "badge": "",
+   "quality": "1080p, 720p, 480p",
    "seen": 1790755193,
    "title": "Meydey / Mayday / Kutilmagan ittifoq 2026 Premyera"
   },
   "18505": {
    "badge": "",
+   "quality": "1080p, 720p, 480p",
    "seen": 1790755193,
    "title": "Kuryer / Yuguruvchi kurer 2026"
   },
   "18559": {
    "badge": "",
+   "quality": "1080p, 720p, 480p",
    "seen": 1790755193,
    "title": "Marsupilami izidan 2: Dengiz sayohati 2026"
   },
   "18560": {
    "badge": "",
+   "quality": "1080p, 720p, 480p",
    "seen": 1790755193,
    "title": "Qo'rquv sayyorasi / Dahshatli sayyora 2007"
   },
   "18561": {
    "badge": "2-qism",
+   "quality": "720p",
    "seen": 1790755193,
    "title": "Yoshlik bahori 2014 animesi"
   },
   "18562": {
    "badge": "",
+   "quality": "1080p, 720p, 480p",
    "seen": 1790755193,
    "title": "Oilaviy Qasos 2026 / Oilaviy Qasos rejasi Hind kino 2026"
   },
   "18563": {
    "badge": "",
+   "quality": "1080p, 720p, 480p",
    "seen": 1790755193,
    "title": "Munna Maykl 2017"
   },
   "18564": {
    "badge": "",
+   "quality": "1080p, 720p, 480p",
    "seen": 1790755193,
    "title": "Yangi dunyo 2013 Koreys jangari filmi"
   },
   "18565": {
    "badge": "",
+   "quality": "1080p, 720p, 480p",
    "seen": 1790755193,
    "title": "Marsupilami izidan: Jungli chorlovi 2012"
   },
   "18566": {
    "badge": "",
+   "quality": "1080p, 720p, 480p",
    "seen": 1790755193,
    "title": "Sher Zarbasi / Lion Fist 2026"
   },
   "18567": {
    "badge": "",
+   "quality": "1080p, 720p, 480p",
    "seen": 1790755193,
    "title": "Firibgarlar / Moshenniklar 2026"
   },
   "18568": {
    "badge": "",
+   "quality": "480p",
    "seen": 1790755193,
    "title": "Bagdasar ajrashmoqchi 1976"
   },
   "18569": {
    "badge": "",
+   "quality": "1080p, 720p, 480p",
    "seen": 1790755193,
    "title": "Ivan Ivanovich va Ivan Nikiforovich o'rtasidagi nizo 1959"
   },
   "18570": {
    "badge": "",
+   "quality": "1080p, 720p, 480p",
    "seen": 1790755193,
    "title": "Xo'rlanganlar va haqoratlanganlar 1990"
   },
   "18571": {
    "badge": "",
+   "quality": "1080p, 720p, 480p",
    "seen": 1790755193,
    "title": "Begona / Notanish odam 1967 Fransiya retro kinosi"
   },
   "18572": {
    "badge": "",
+   "quality": "480p",
    "seen": 1790755193,
    "title": "Chol va qizaloq / Katta odam, kichik muhabbat 2001"
   },
   "18574": {
    "badge": "",
+   "quality": "1080p, 720p, 480p",
    "seen": 1790755193,
    "title": "12 Stul 1971 SSSR kinosi"
   },
   "18576": {
    "badge": "",
+   "quality": "1080p, 720p, 480p",
    "seen": 1790755193,
    "title": "Majburiy sheriklar / Erkaklar harakatda 2026"
   },
   "18577": {
    "badge": "",
+   "quality": "1080p, 720p, 480p",
    "seen": 1790755193,
    "title": "Tirik Murda / Живой труп 1968 SSSR kinosi"
   },
   "18578": {
    "badge": "",
+   "quality": "1080p, 720p, 480p",
    "seen": 1790755193,
    "title": "Musiqa / Musiqachi 2024"
   },
   "18579": {
    "badge": "",
+   "quality": "720p, 480p",
    "seen": 1790755193,
    "title": "Kreyser Sonatasi / Крейцерова соната 1987 SSSR kinosi"
   },
   "18580": {
    "badge": "",
+   "quality": "1080p, 720p, 480p",
    "seen": 1790755193,
    "title": "Hamshiralar Jasorati / Hindiston Taqdirini Belgilovchilar 2026 Hind kino"
   },
@@ -142,41 +271,49 @@
   },
   "18582": {
    "badge": "",
+   "quality": "1080p, 720p, 480p",
    "seen": 1790755193,
    "title": "Onaning mahluqi / Ona tuqqan mahluq"
   },
   "18583": {
    "badge": "",
+   "quality": "1080p, 720p, 480p",
    "seen": 1790755193,
    "title": "Guvoh Qizcha / Jajji guvoh Hind kino 2026"
   },
   "18584": {
    "badge": "",
+   "quality": "720p, 480p",
    "seen": 1790755193,
    "title": "Kul va Olmos 1958"
   },
   "18585": {
    "badge": "8-qism!",
+   "quality": "1080p, 480p",
    "seen": 1790755193,
    "title": "Gullar va gunohlar / Atirgullar va gunohlar / Güller ve Günahlar / Розы и грехи 2025 turk seriali"
   },
   "18586": {
    "badge": "",
+   "quality": "1080p, 720p, 480p",
    "seen": 1790755193,
    "title": "Nyu Yorkdagi kuz / Kuz fasli Nyu Yorkda 2000"
   },
   "18587": {
    "badge": "Barcha qismlar!",
+   "quality": "1080p, 480p",
    "seen": 1790755193,
    "title": "Asteriks va Obeliks: Sardorlar bellashuvi multiseriali"
   },
   "18588": {
    "badge": "",
+   "quality": "1080p, 720p, 480p",
    "seen": 1790755193,
    "title": "Gul / G'ul 2018 Hind kino"
   },
   "18589": {
    "badge": "",
+   "quality": "1080p, 720p, 480p",
    "seen": 1790755193,
    "title": "Buvimning to'yi / To'y boshlandi buvijon Hind kino 2026"
   }
@@ -199,81 +336,97 @@
   },
   "8914": {
    "badge": "",
+   "date": "Wed, 09 Sep 2026 05:40:36 +0500",
    "seen": 1790757791,
    "title": "Koloniya To'da koreys zombi kino premyera"
   },
   "8915": {
    "badge": "",
+   "date": "Wed, 09 Sep 2026 10:16:19 +0500",
    "seen": 1790757791,
    "title": "Shivirlovchi qotil premyera"
   },
   "8916": {
    "badge": "",
+   "date": "Sat, 12 Sep 2026 16:45:56 +0500",
    "seen": 1790757791,
    "title": "Yovuz murda 3 yonish premyera"
   },
   "8917": {
    "badge": "",
+   "date": "Sun, 13 Sep 2026 13:13:22 +0500",
    "seen": 1790757791,
    "title": "Eskichi bobo"
   },
   "8918": {
    "badge": "",
+   "date": "Sun, 13 Sep 2026 13:18:57 +0500",
    "seen": 1790757791,
    "title": "Amerikalik"
   },
   "8919": {
    "badge": "",
+   "date": "Sun, 13 Sep 2026 13:28:49 +0500",
    "seen": 1790757791,
    "title": "Velosiped o'g'rilari"
   },
   "8920": {
    "badge": "",
+   "date": "Sun, 13 Sep 2026 13:37:51 +0500",
    "seen": 1790757791,
    "title": "7-guruh"
   },
   "8921": {
    "badge": "",
+   "date": "Sun, 13 Sep 2026 13:43:49 +0500",
    "seen": 1790757791,
    "title": "Kurashchi 2 2026 hind kino premyerasi"
   },
   "8922": {
    "badge": "",
+   "date": "Sun, 13 Sep 2026 16:59:05 +0500",
    "seen": 1790757791,
    "title": "Qarol 3 2026 premyera"
   },
   "8924": {
    "badge": "",
+   "date": "Mon, 14 Sep 2026 18:57:36 +0500",
    "seen": 1790757791,
    "title": "Yoshlik bor joyda sevgi ham bo'ladi 2026 hind kino premyera"
   },
   "8925": {
    "badge": "",
+   "date": "Mon, 14 Sep 2026 19:08:36 +0500",
    "seen": 1790757791,
    "title": "55-element"
   },
   "8926": {
    "badge": "",
+   "date": "Mon, 14 Sep 2026 19:13:09 +0500",
    "seen": 1790757791,
    "title": "Shahardagi ikki telba 2026 hind kino premyerasi"
   },
   "8927": {
    "badge": "",
+   "date": "Mon, 14 Sep 2026 19:15:45 +0500",
    "seen": 1790757791,
    "title": "Moana 2026 premyera"
   },
   "8928": {
    "badge": "",
+   "date": "Tue, 15 Sep 2026 19:21:42 +0500",
    "seen": 1790757791,
    "title": "Umid hope 2026"
   },
   "8929": {
    "badge": "",
+   "date": "Wed, 16 Sep 2026 19:05:08 +0500",
    "seen": 1790757791,
    "title": "Yugurayotgan ayol 2026 premyera"
   },
   "8930": {
    "badge": "",
+   "date": "Wed, 16 Sep 2026 19:11:21 +0500",
    "seen": 1790757791,
    "title": "Changalzorga xush kelibsiz jungliga 2026 hind kino premyerasi"
   },
@@ -324,61 +477,73 @@
   },
   "8940": {
    "badge": "",
+   "date": "Fri, 18 Sep 2026 05:20:56 +0500",
    "seen": 1790757791,
    "title": "To'ydagi ov Ichkaridagi dushman premyera"
   },
   "8941": {
    "badge": "",
+   "date": "Fri, 18 Sep 2026 05:25:58 +0500",
    "seen": 1790757791,
    "title": "Kiki eltuv xizmati Jodugar qiz dostavka xizmati"
   },
   "8942": {
    "badge": "",
+   "date": "Fri, 18 Sep 2026 10:20:25 +0500",
    "seen": 1790757791,
    "title": "Sahro farzandi Bolakay va tulki 2026 premyera"
   },
   "8943": {
    "badge": "",
+   "date": "Fri, 18 Sep 2026 12:58:42 +0500",
    "seen": 1790757791,
    "title": "Xavfli kelishuv 2026 premyera"
   },
   "8944": {
    "badge": "",
+   "date": "Fri, 18 Sep 2026 12:59:52 +0500",
    "seen": 1790757791,
    "title": "Kokteyl 2 2026 hind kino premyerasi"
   },
   "8945": {
    "badge": "",
+   "date": "Fri, 18 Sep 2026 14:37:11 +0500",
    "seen": 1790757791,
    "title": "Hadik 2 Qo'rquv 2 hind kino premyerasi"
   },
   "8946": {
    "badge": "",
+   "date": "Sun, 20 Sep 2026 17:47:39 +0500",
    "seen": 1790757791,
    "title": "Arvoh va firibgar premyera qozoq film"
   },
   "8947": {
    "badge": "",
+   "date": "Sun, 20 Sep 2026 17:52:47 +0500",
    "seen": 1790757791,
    "title": "Kokainxo'r ayiq / Narkoman ayu ayiq premyera"
   },
   "8948": {
    "badge": "",
+   "date": "Sun, 20 Sep 2026 19:29:43 +0500",
    "seen": 1790757791,
    "title": "Koyot Akmega qarshi Ayyor Koyot premyera"
   },
   "8949": {
    "badge": "",
+   "date": "Sun, 20 Sep 2026 20:19:39 +0500",
    "seen": 1790757791,
    "title": "Qimirlama yurma premyera"
   },
   "8950": {
    "badge": "",
+   "date": "Mon, 21 Sep 2026 02:05:05 +0500",
    "seen": 1790757791,
    "title": "Zavqli sarguzashtlar 4 premyera 2026 hind kino"
   },
   "8951": {
    "badge": "",
+   "date": "Mon, 21 Sep 2026 02:10:26 +0500",
    "seen": 1790757791,
    "title": "Meydey / Kutilmagan ittifoq 2026 premyera"
   },
@@ -389,96 +554,115 @@
   },
   "8964": {
    "badge": "",
+   "date": "Wed, 23 Sep 2026 23:34:55 +0500",
    "seen": 1790757791,
    "title": "Imperator Ashoka hind kino"
   },
   "8965": {
    "badge": "",
+   "date": "Wed, 23 Sep 2026 23:35:04 +0500",
    "seen": 1790757791,
    "title": "Ivan Ivanovich va Ivan Nikiforovich orasidagi nizo"
   },
   "8966": {
    "badge": "",
+   "date": "Wed, 23 Sep 2026 23:39:37 +0500",
    "seen": 1790757791,
    "title": "Anonim / Anonimus premyera"
   },
   "8967": {
    "badge": "",
+   "date": "Wed, 23 Sep 2026 23:46:08 +0500",
    "seen": 1790757791,
    "title": "Portlash / Oilaviy qasos 2026 hind kino"
   },
   "8968": {
    "badge": "",
+   "date": "Thu, 24 Sep 2026 00:06:26 +0500",
    "seen": 1790757791,
    "title": "Yangi xalq qahramoni / Asrandi qiz 2026 hind kino premyera"
   },
   "8969": {
    "badge": "",
+   "date": "Thu, 24 Sep 2026 06:10:52 +0500",
    "seen": 1790757791,
    "title": "Gandhari 2026 hind kino premyera"
   },
   "8970": {
    "badge": "",
+   "date": "Thu, 24 Sep 2026 06:11:01 +0500",
    "seen": 1790757791,
    "title": "Yo'qolgan kelinlar / xonimlar hind kino premyera"
   },
   "8971": {
    "badge": "",
+   "date": "Thu, 24 Sep 2026 06:11:37 +0500",
    "seen": 1790757791,
    "title": "Xo'rlanganlar va haqoratlanganlar SSSR filmi"
   },
   "8972": {
    "badge": "",
+   "date": "Thu, 24 Sep 2026 06:11:44 +0500",
    "seen": 1790757791,
    "title": "Sher zarbasi  / birinchi 2026 premyera"
   },
   "8973": {
    "badge": "",
+   "date": "Sat, 26 Sep 2026 21:22:48 +0500",
    "seen": 1790757791,
    "title": "Yetimxona premyera ujas film"
   },
   "8978": {
    "badge": "",
+   "date": "Sun, 27 Sep 2026 17:33:41 +0500",
    "seen": 1790757791,
    "title": "Tirik murda SSSR filmi"
   },
   "8979": {
    "badge": "",
+   "date": "Sun, 27 Sep 2026 17:41:42 +0500",
    "seen": 1790757791,
    "title": "Hamshiralar jasorat / Hindiston taqdiriyotchisi 2026 hind kino premyera"
   },
   "8980": {
    "badge": "",
+   "date": "Sun, 27 Sep 2026 17:48:12 +0500",
    "seen": 1790757791,
    "title": "Ustara / Britva / Guvoh qizcha 2026 hind kino premyera"
   },
   "8981": {
    "badge": "",
+   "date": "Sun, 27 Sep 2026 17:56:32 +0500",
    "seen": 1790757791,
    "title": "Firibgarlar / Moshenniklar 2026 qozoq filmi premyera"
   },
   "8982": {
    "badge": "",
+   "date": "Mon, 28 Sep 2026 01:45:57 +0500",
    "seen": 1790757791,
    "title": "Majburiy sheriklar / Ishdagi erlar 2026 koreys filmi premyera"
   },
   "8983": {
    "badge": "",
+   "date": "Tue, 29 Sep 2026 14:07:26 +0500",
    "seen": 1790757791,
    "title": "Ayoz  / Ayaz"
   },
   "8988": {
    "badge": "",
+   "date": "Tue, 29 Sep 2026 23:04:39 +0500",
    "seen": 1790757791,
    "title": "Shakar xonim / Shirin ayol SSSR filmi"
   },
   "8989": {
    "badge": "",
+   "date": "Tue, 29 Sep 2026 23:12:43 +0500",
    "seen": 1790757791,
    "title": "Kul va olmos"
   },
   "8990": {
    "badge": "",
+   "date": "Tue, 29 Sep 2026 23:18:06 +0500",
    "seen": 1790757791,
    "title": "Birinchi raqamli nomzod / Qanday prezident bo'lmaslik mumkin / Yetakchi nomzod"
   }
