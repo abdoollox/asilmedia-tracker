@@ -24,7 +24,7 @@ MAX_STATE = 3000  # har bir sayt uchun eng oxirgi N ta postni eslab qolamiz
 # Sarlavhadagi SEO dumini kesib tashlaymiz ("Uzbek tilida O'zbekcha tarjima ... skachat")
 TAIL_RE = re.compile(r"\s+(uzbek o'zbek tilida|uzbek tilida|o'zbek tilida|barcha qismlar|o'zbekcha tarjima"
                      r"|onlayn ko'rish).*$", re.I)
-SERIAL_RE = re.compile(r"serial|qism|mavsum|fasl|anime", re.I)
+SERIAL_RE = re.compile(r"serial|qism|mavsum|\d+-fasl|anime", re.I)
 
 
 def fetch(url):
@@ -65,7 +65,8 @@ def asilmedia_items(pages=2):
                 "title": html.unescape(img.group(2)).strip() if img else m.group(1),
                 "poster": urllib.parse.urljoin(AM_BASE, img.group(1)) if img else None,
                 "badge": html.unescape(badge.group(1)).strip() if badge else "",
-                "extra": ", ".join(AM_QUALITY_RE.findall(block)),
+                "quality": ", ".join(AM_QUALITY_RE.findall(block)),
+                "extra": "",
             })
     return items
 
@@ -96,14 +97,17 @@ def uzmovi_items():
         title = _tag(block, "title")
         enc = re.search(r'<enclosure url="([^"]+)"', block)
         is_serial = bool(SERIAL_RE.search(title) or "/serialar/" in url)
+        date = _tag(block, "pubDate")
         items.append({
             "id": m.group(1),
             "url": url,
             "title": title,
             "poster": html.unescape(enc.group(1)) if enc else None,
-            # Faqat seriallar uchun sanani kuzatamiz: kino qayta tahrirlansa xabar kerak emas
-            "badge": _tag(block, "pubDate") if is_serial else "",
+            # Serial sanasi o'zgarsa — yangi qism; film sanasi o'zgarsa — yangilangan (sifatliroq) versiya
+            "badge": date if is_serial else "",
             "badge_label": "",
+            "date": "" if is_serial else date,
+            "quality": "",
             "extra": _tag(block, "category"),
         })
     return items
@@ -132,6 +136,8 @@ def load_state():
 
 def save_state(state):
     for key, posts in state.items():
+        if key.startswith("_"):  # "_order" kabi xizmat yozuvlari
+            continue
         if len(posts) > MAX_STATE:
             keep = sorted(posts, key=lambda k: posts[k].get("seen", 0), reverse=True)[:MAX_STATE]
             state[key] = {k: posts[k] for k in keep}
@@ -174,8 +180,15 @@ def tg_upload_photo(token, fields, photo_url):
         return json.load(r)
 
 
+HEADS = {
+    "new": "🎬 <b>Yangi kino/serial</b>",
+    "upgrade": "⬆️ <b>Sifat yaxshilandi</b>",
+    "update": "🔄 <b>Film yangilandi</b>\n<i>Sifatliroq versiya (WEB / BluRay) qo'shilgan bo'lishi mumkin</i>",
+}
+
+
 def format_message(src, item, kind):
-    head = "🎬 <b>Yangi kino/serial</b>" if kind == "new" else src["episode_head"]
+    head = src["episode_head"] if kind == "episode" else HEADS[kind]
     lines = [
         "%s <b>%s</b> · #%s" % (src["emoji"], src["name"], src["key"]),
         head,
@@ -184,8 +197,12 @@ def format_message(src, item, kind):
     ]
     if item["badge"] and item.get("badge_label", item["badge"]):
         lines.append("🔹 %s" % html.escape(item["badge"]))
+    if item.get("old_quality") and item["quality"]:
+        lines.append("🎞 %s → <b>%s</b>" % (html.escape(item["old_quality"]), html.escape(item["quality"])))
+    elif item["quality"]:
+        lines.append("🎞 %s" % html.escape(item["quality"]))
     if item["extra"]:
-        lines.append("🎞 %s" % html.escape(item["extra"]))
+        lines.append("🏷 %s" % html.escape(item["extra"]))
     return "\n".join(lines)
 
 
@@ -211,6 +228,36 @@ def notify(token, chat_ids, src, item, kind):
 
 
 # ---------------------------------------------------------------- asosiy
+def _max_res(q):
+    return max([int(x) for x in re.findall(r"(\d{3,4})p", q)] or [0])
+
+
+def quality_improved(old, new):
+    """480p -> 1080p kabi: eng yuqori o'lcham oshgan yoki yangi o'lcham qo'shilgan bo'lsa."""
+    if not old or not new:
+        return False
+    old_set, new_set = set(re.findall(r"\d{3,4}p", old)), set(re.findall(r"\d{3,4}p", new))
+    return _max_res(new) > _max_res(old) or new_set > old_set
+
+
+def find_bumped(current, previous, posts):
+    """Sanaga ko'ra tartiblangan ro'yxatda yuqoriga ko'tarilgan (yangilangan) eski postlarni topadi.
+
+    Post X ko'tarilgan hisoblanadi, agar hozir X dan keyin turgan biror post avvalgi
+    tekshiruvda X dan oldin turgan bo'lsa (yoki X avval ro'yxatda umuman bo'lmagan bo'lsa).
+    """
+    if not previous:
+        return set()
+    pidx = {pid: i for i, pid in enumerate(previous)}
+    bumped, min_later = set(), float("inf")
+    for pid in reversed(current):
+        if pid in posts and pidx.get(pid, float("inf")) > min_later:
+            bumped.add(pid)
+        if pid in pidx:
+            min_later = min(min_later, pidx[pid])
+    return bumped
+
+
 def check_source(src, state, now):
     """Saytni tekshiradi va (kind, item) hodisalar ro'yxatini qaytaradi."""
     items, ids = [], set()
@@ -223,16 +270,31 @@ def check_source(src, state, now):
 
     first_run = src["key"] not in state
     posts = state.setdefault(src["key"], {})
+    orders = state.setdefault("_order", {})
+    bumped = find_bumped([it["id"] for it in items], orders.get(src["key"]), posts)
+    orders[src["key"]] = [it["id"] for it in items]
+
     events = []
     for it in items:
         old = posts.get(it["id"])
+        is_serial = bool(it["badge"] or (old or {}).get("badge") or SERIAL_RE.search(it["title"]))
         if old is None:
             events.append(("new", it))
-        elif it["badge"] and old.get("badge") and it["badge"] != old["badge"]:
-            events.append(("episode", it))
+        elif is_serial:
+            if it["badge"] and old.get("badge") and it["badge"] != old["badge"]:
+                events.append(("episode", it))
+        elif quality_improved(old.get("quality", ""), it["quality"]):
+            it["old_quality"] = old["quality"]
+            events.append(("upgrade", it))
+        elif (it.get("date") and old.get("date") and it["date"] != old["date"]) or it["id"] in bumped:
+            events.append(("update", it))
         # "seen" faqat birinchi marta yoziladi — aks holda fayl har safar o'zgarib, keraksiz commit bo'ladi
-        posts[it["id"]] = {"badge": it["badge"] or (old or {}).get("badge", ""),
-                           "title": short_title(it["title"]), "seen": (old or {}).get("seen", now)}
+        rec = {"badge": it["badge"] or (old or {}).get("badge", ""),
+               "title": short_title(it["title"]), "seen": (old or {}).get("seen", now)}
+        for f in ("quality", "date"):
+            if it.get(f):
+                rec[f] = it[f]
+        posts[it["id"]] = rec
     if first_run:
         print("[%s] birinchi ishga tushish: %d ta post eslab qolindi, xabar yuborilmadi." % (src["key"], len(items)))
         return []
@@ -256,7 +318,7 @@ def main():
             failed.append(src["key"])
             continue
         for kind, it in reversed(events):  # eskidan yangiga qarab yuboramiz
-            print("[%s] %s: %s — %s" % (src["key"], kind, short_title(it["title"]), it["badge"]))
+            print("[%s] %s: %s — %s" % (src["key"], kind, short_title(it["title"]), it["badge"] or it["quality"]))
             if not dry:
                 notify(token, chat_ids, src, it, kind)
         if not events:
