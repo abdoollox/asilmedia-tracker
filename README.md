@@ -1,10 +1,17 @@
 # Asilmedia Tracker
 
-asilmedia.org saytini kuzatib, quyidagi hollarda Telegramga xabar yuboradi:
+Kino saytlarini kuzatib, quyidagi hollarda Telegramga xabar yuboradi:
 - 🎬 yangi kino yoki serial qo'shilganda
-- 📺 serialga yangi qism qo'shilganda ("3-fasl 2-qism" belgisi o'zgarganda)
+- 📺 serialga yangi qism qo'shilganda
 
-Har 10 daqiqada `https://asilmedia.org/lastnews/` sahifasini (birinchi 2 sahifa) tekshiradi.
+Har 10 daqiqada tekshiriladi. Xabarning birinchi qatorida sayt nomi va hashtag bo'ladi:
+
+| Sayt | Belgi | Qayerdan o'qiladi | Yangi qism qanday aniqlanadi |
+|---|---|---|---|
+| asilmedia.org | 🟦 AsilMedia `#asilmedia` | `/lastnews/` (2 sahifa) | kartochkadagi "3-fasl 2-qism" belgisi o'zgarsa |
+| uzmovi.net | 🟩 UZMOVi `#uzmovi` | `/rss.xml` (60 ta post) | serial posti yangi sana bilan yuqoriga ko'tarilsa |
+
+Yangi sayt qo'shish uchun `tracker.py` dagi `SOURCES` ro'yxatiga yozuv qo'shiladi.
 
 ## 1. Bot yaratish
 1. Telegramda [@BotFather](https://t.me/BotFather) → `/newbot` → **token**ni nusxalang.
