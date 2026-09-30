@@ -1,12 +1,16 @@
 {
  "_order": {
   "asilmedia": [
+   "18594",
+   "18593",
+   "18592",
+   "18591",
+   "18440",
    "18590",
    "13644",
    "17018",
    "15916",
    "18589",
-   "18440",
    "18493",
    "18588",
    "18505",
@@ -32,11 +36,7 @@
    "18568",
    "18567",
    "18566",
-   "18565",
-   "18564",
-   "18563",
-   "18562",
-   "18494"
+   "18565"
   ],
   "uzmovi": [
    "8991",
@@ -121,7 +121,7 @@
    "title": "Qalqon agentlari"
   },
   "18440": {
-   "badge": "3-fasl 2-qism",
+   "badge": "3-fasl 3-qism",
    "quality": "1080p, 480p",
    "seen": 1790755193,
    "title": "Najot shifoxonasi / Ustoz Kim Koreya seriali 2016"
@@ -328,6 +328,30 @@
    "quality": "1080p, 720p, 480p",
    "seen": 1790791638,
    "title": "Jaydari josus / Uquvsiz josus Hind kino 2026"
+  },
+  "18591": {
+   "badge": "",
+   "quality": "1080p, 720p, 480p",
+   "seen": 1790806381,
+   "title": "Prezident bo'lolmagan nomzod / Birinchi raqamli nomzod 2018"
+  },
+  "18592": {
+   "badge": "",
+   "quality": "1080p, 720p, 480p",
+   "seen": 1790806381,
+   "title": "Shakar xonim 1976 SSSR kinosi"
+  },
+  "18593": {
+   "badge": "",
+   "quality": "1080p, 720p, 480p",
+   "seen": 1790806381,
+   "title": "Qimorboz / O'yinchi 1972 SSSR kinosi"
+  },
+  "18594": {
+   "badge": "",
+   "quality": "1080p, 720p, 480p",
+   "seen": 1790806381,
+   "title": "Bolalar / Yigitlar 1990 SSSR kinosi"
   }
  },
  "uzmovi": {
