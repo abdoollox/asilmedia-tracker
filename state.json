@@ -1,6 +1,7 @@
 {
  "_order": {
   "asilmedia": [
+   "15916",
    "18589",
    "18440",
    "18493",
@@ -35,10 +36,10 @@
    "18563",
    "18562",
    "18494",
-   "18560",
-   "18559"
+   "18560"
   ],
   "uzmovi": [
+   "8991",
    "8990",
    "8989",
    "8988",
@@ -97,8 +98,7 @@
    "8915",
    "8914",
    "8913",
-   "8912",
-   "8911"
+   "8912"
   ]
  },
  "asilmedia": {
@@ -107,6 +107,12 @@
    "quality": "1080p, 480p",
    "seen": 1790755193,
    "title": "Yengilmas / Непобедимый / Invincible AQSH seriali"
+  },
+  "15916": {
+   "badge": "4-fasl 3-qism!",
+   "quality": "1080p, 480p",
+   "seen": 1790771786,
+   "title": "Jek Richer seriali"
   },
   "17018": {
    "badge": "4-fasl 7-qism!",
@@ -665,6 +671,11 @@
    "date": "Tue, 29 Sep 2026 23:18:06 +0500",
    "seen": 1790757791,
    "title": "Birinchi raqamli nomzod / Qanday prezident bo'lmaslik mumkin / Yetakchi nomzod"
+  },
+  "8991": {
+   "badge": "Wed, 30 Sep 2026 14:56:02 +0500",
+   "seen": 1790771786,
+   "title": "Sara sanati yangi koreys serial"
   }
  }
 }
