@@ -152,6 +152,28 @@ def tg(method, token, data):
         return json.load(r)
 
 
+def tg_upload_photo(token, fields, photo_url):
+    """Telegram rasm URL'ini o'zi yuklay olmasa, rasmni biz yuklab, fayl sifatida jo'natamiz."""
+    req = urllib.request.Request(photo_url, headers={"User-Agent": UA})
+    with urllib.request.urlopen(req, timeout=30) as r:
+        img, ctype = r.read(), r.headers.get("Content-Type", "image/jpeg")
+    boundary = "----tracker%d" % int(time.time() * 1000)
+    body = b""
+    for k, v in fields.items():
+        if not isinstance(v, str):
+            v = json.dumps(v)
+        body += ("--%s\r\nContent-Disposition: form-data; name=\"%s\"\r\n\r\n%s\r\n" % (boundary, k, v)).encode()
+    fname = os.path.basename(urllib.parse.urlparse(photo_url).path) or "poster.jpg"
+    body += ("--%s\r\nContent-Disposition: form-data; name=\"photo\"; filename=\"%s\"\r\nContent-Type: %s\r\n\r\n"
+             % (boundary, fname, ctype)).encode() + img + ("\r\n--%s--\r\n" % boundary).encode()
+    req = urllib.request.Request(
+        "https://api.telegram.org/bot%s/sendPhoto" % token, data=body,
+        headers={"Content-Type": "multipart/form-data; boundary=%s" % boundary},
+    )
+    with urllib.request.urlopen(req, timeout=60) as r:
+        return json.load(r)
+
+
 def format_message(src, item, kind):
     head = "🎬 <b>Yangi kino/serial</b>" if kind == "new" else src["episode_head"]
     lines = [
@@ -171,13 +193,18 @@ def notify(token, chat_ids, src, item, kind):
     text = format_message(src, item, kind)
     markup = {"inline_keyboard": [[{"text": "▶️ %s'da ko'rish" % src["site"], "url": item["url"]}]]}
     for chat_id in chat_ids:
-        try:
-            if item["poster"]:
-                tg("sendPhoto", token, {"chat_id": chat_id, "photo": item["poster"], "caption": text,
-                                        "parse_mode": "HTML", "reply_markup": markup})
+        if item["poster"]:
+            fields = {"chat_id": chat_id, "caption": text, "parse_mode": "HTML", "reply_markup": markup}
+            try:
+                tg("sendPhoto", token, dict(fields, photo=item["poster"]))
                 continue
-        except Exception as e:
-            print("sendPhoto xato, matn yuboriladi:", e, file=sys.stderr)
+            except Exception as e:
+                print("sendPhoto (URL) xato, rasm yuklab jo'natiladi:", e, file=sys.stderr)
+            try:
+                tg_upload_photo(token, fields, item["poster"])
+                continue
+            except Exception as e:
+                print("sendPhoto (fayl) xato, matn yuboriladi:", e, file=sys.stderr)
         tg("sendMessage", token, {"chat_id": chat_id, "text": text, "parse_mode": "HTML",
                                   "reply_markup": markup, "disable_web_page_preview": True})
         time.sleep(0.5)
