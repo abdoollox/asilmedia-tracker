@@ -1,12 +1,13 @@
 {
  "_order": {
   "asilmedia": [
+   "18561",
+   "18440",
    "18596",
    "18594",
    "18593",
    "18592",
    "18591",
-   "18440",
    "18590",
    "13644",
    "17018",
@@ -17,7 +18,6 @@
    "18505",
    "18485",
    "18587",
-   "18561",
    "18586",
    "18585",
    "18584",
@@ -121,7 +121,7 @@
    "title": "Qalqon agentlari"
   },
   "18440": {
-   "badge": "3-fasl 3-qism",
+   "badge": "3-fasl 4-qism",
    "quality": "1080p, 480p",
    "seen": 1790755193,
    "title": "Najot shifoxonasi / Ustoz Kim Koreya seriali 2016"
@@ -163,7 +163,7 @@
    "title": "Qo'rquv sayyorasi / Dahshatli sayyora 2007"
   },
   "18561": {
-   "badge": "2-qism",
+   "badge": "3-qism",
    "quality": "720p",
    "seen": 1790755193,
    "title": "Yoshlik bahori 2014 animesi"
