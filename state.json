@@ -1,6 +1,7 @@
 {
  "_order": {
   "asilmedia": [
+   "11637",
    "18600",
    "18440",
    "18599",
@@ -35,10 +36,11 @@
    "18574",
    "18572",
    "18571",
-   "18570",
-   "18569"
+   "18570"
   ],
   "uzmovi": [
+   "8993",
+   "8992",
    "8991",
    "8990",
    "8989",
@@ -96,12 +98,16 @@
    "8917",
    "8916",
    "8915",
-   "8914",
-   "8913",
-   "8912"
+   "8914"
   ]
  },
  "asilmedia": {
+  "11637": {
+   "badge": "1-6-fasllar",
+   "quality": "1080p, 480p",
+   "seen": 1790985071,
+   "title": "Ruhshunos / Ruxshunos Mentalist"
+  },
   "13644": {
    "badge": "1-fasl 6-qism",
    "quality": "1080p, 480p",
@@ -730,6 +736,18 @@
    "badge": "Wed, 30 Sep 2026 14:56:02 +0500",
    "seen": 1790771786,
    "title": "Sara sanati yangi koreys serial"
+  },
+  "8992": {
+   "badge": "",
+   "date": "Sat, 03 Oct 2026 04:44:55 +0500",
+   "seen": 1790985071,
+   "title": "Xeppi Patel: Jaydari josus / xavfli shpion 2026 hind kino"
+  },
+  "8993": {
+   "badge": "",
+   "date": "Sat, 03 Oct 2026 04:49:42 +0500",
+   "seen": 1790985071,
+   "title": "Buvimning to'yi 2026 hind kino"
   }
  }
 }
