@@ -1,9 +1,11 @@
 {
  "_order": {
   "asilmedia": [
+   "18600",
+   "18440",
+   "18599",
    "18598",
    "18561",
-   "18440",
    "18596",
    "18594",
    "18593",
@@ -34,9 +36,7 @@
    "18572",
    "18571",
    "18570",
-   "18569",
-   "18568",
-   "18567"
+   "18569"
   ],
   "uzmovi": [
    "8991",
@@ -121,7 +121,7 @@
    "title": "Qalqon agentlari"
   },
   "18440": {
-   "badge": "3-fasl 4-qism",
+   "badge": "3-fasl 5-qism",
    "quality": "1080p, 480p",
    "seen": 1790755193,
    "title": "Najot shifoxonasi / Ustoz Kim Koreya seriali 2016"
@@ -364,6 +364,18 @@
    "quality": "1080p, 720p, 480p",
    "seen": 1790955809,
    "title": "Akulalar orasida / O'lim changalida 2026"
+  },
+  "18599": {
+   "badge": "",
+   "quality": "1080p, 480p",
+   "seen": 1790971840,
+   "title": "Dekster: Qayta tirilish"
+  },
+  "18600": {
+   "badge": "",
+   "quality": "1080p, 720p, 480p",
+   "seen": 1790971840,
+   "title": "Bechoralar Hindistonda: Onani izlab / Qochoqlar Hindistoda 2026 Qozoq filmi"
   }
  },
  "uzmovi": {
