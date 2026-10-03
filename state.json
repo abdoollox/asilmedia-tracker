@@ -39,6 +39,9 @@
    "18570"
   ],
   "uzmovi": [
+   "8998",
+   "8997",
+   "8996",
    "8993",
    "8992",
    "8991",
@@ -95,10 +98,7 @@
    "8920",
    "8919",
    "8918",
-   "8917",
-   "8916",
-   "8915",
-   "8914"
+   "8917"
   ]
  },
  "asilmedia": {
@@ -748,6 +748,24 @@
    "date": "Sat, 03 Oct 2026 04:49:42 +0500",
    "seen": 1790985071,
    "title": "Buvimning to'yi 2026 hind kino"
+  },
+  "8996": {
+   "badge": "",
+   "date": "Sat, 03 Oct 2026 04:53:19 +0500",
+   "seen": 1791000929,
+   "title": "Akulalar orasida / Qo'rquv changalida 2026 premyera"
+  },
+  "8997": {
+   "badge": "",
+   "date": "Sat, 03 Oct 2026 04:57:54 +0500",
+   "seen": 1791000929,
+   "title": "Odisseya / Odisey 2026 premyera"
+  },
+  "8998": {
+   "badge": "",
+   "date": "Sat, 03 Oct 2026 05:01:16 +0500",
+   "seen": 1791000929,
+   "title": "Kreyser sonatasi SSSR filmi"
   }
  }
 }
