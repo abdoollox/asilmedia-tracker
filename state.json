@@ -39,6 +39,7 @@
    "18570"
   ],
   "uzmovi": [
+   "8999",
    "8998",
    "8997",
    "8996",
@@ -97,8 +98,7 @@
    "8921",
    "8920",
    "8919",
-   "8918",
-   "8917"
+   "8918"
   ]
  },
  "asilmedia": {
@@ -766,6 +766,12 @@
    "date": "Sat, 03 Oct 2026 05:01:16 +0500",
    "seen": 1791000929,
    "title": "Kreyser sonatasi SSSR filmi"
+  },
+  "8999": {
+   "badge": "",
+   "date": "Sat, 03 Oct 2026 13:06:08 +0500",
+   "seen": 1791021340,
+   "title": "Ilk muhabbat / Biricnhi sevgi / Yuragimning organi"
   }
  }
 }
