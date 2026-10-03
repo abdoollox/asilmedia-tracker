@@ -1,6 +1,7 @@
 {
  "_order": {
   "asilmedia": [
+   "18602",
    "18601",
    "11637",
    "18600",
@@ -35,8 +36,7 @@
    "18577",
    "18576",
    "18574",
-   "18572",
-   "18571"
+   "18572"
   ],
   "uzmovi": [
    "8999",
@@ -388,6 +388,12 @@
    "quality": "1080p, 720p, 480p",
    "seen": 1791038141,
    "title": "Monstrum Premyera 2018"
+  },
+  "18602": {
+   "badge": "",
+   "quality": "1080p, 720p, 480p",
+   "seen": 1791051355,
+   "title": "Ilk muhabbat / Yuragimning a'zosi / Xotiramdagi garmoniy 1999"
   }
  },
  "uzmovi": {
