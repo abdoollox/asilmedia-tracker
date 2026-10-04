@@ -1,6 +1,7 @@
 {
  "_order": {
   "asilmedia": [
+   "18605",
    "18511",
    "18506",
    "18493",
@@ -35,8 +36,7 @@
    "18583",
    "18582",
    "18581",
-   "18580",
-   "18579"
+   "18580"
   ],
   "uzmovi": [
    "8999",
@@ -424,6 +424,12 @@
    "quality": "1080p, 720p, 480p",
    "seen": 1791129290,
    "title": "Aql ortidagi soya 2026"
+  },
+  "18605": {
+   "badge": "",
+   "quality": "1080p, 720p, 480p",
+   "seen": 1791141404,
+   "title": "Qasos uchun qaytish / Yuk tashuvchi Hind kino 2025"
   }
  },
  "uzmovi": {
