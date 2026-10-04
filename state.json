@@ -1,6 +1,10 @@
 {
  "_order": {
   "asilmedia": [
+   "18511",
+   "18506",
+   "18493",
+   "18604",
    "18509",
    "18603",
    "18602",
@@ -21,7 +25,6 @@
    "17018",
    "15916",
    "18589",
-   "18493",
    "18588",
    "18505",
    "18485",
@@ -33,10 +36,7 @@
    "18582",
    "18581",
    "18580",
-   "18579",
-   "18578",
-   "18577",
-   "18576"
+   "18579"
   ],
   "uzmovi": [
    "8999",
@@ -139,7 +139,7 @@
    "title": "Mangus 2026"
   },
   "18493": {
-   "badge": "6-qism",
+   "badge": "7-qism",
    "quality": "1080p, 480p",
    "seen": 1790755193,
    "title": "Tungi agent / Tungi qo'riqchi / Tungi tansoqchi 2023 xorij seriali"
@@ -156,11 +156,23 @@
    "seen": 1790755193,
    "title": "Kuryer / Yuguruvchi kurer 2026"
   },
+  "18506": {
+   "badge": "",
+   "quality": "1080p, 720p, 480p, TS",
+   "seen": 1791129290,
+   "title": "Shiddatli hujum Premyera 2026"
+  },
   "18509": {
    "badge": "1-qism",
    "quality": "1080p, 480p",
    "seen": 1791112845,
    "title": "Erta bahor 2026 Xitoy seriali"
+  },
+  "18511": {
+   "badge": "",
+   "quality": "1080p, 720p, 480p, TS",
+   "seen": 1791129290,
+   "title": "Umid Premyera 2026"
   },
   "18559": {
    "badge": "",
@@ -406,6 +418,12 @@
    "quality": "1080p, 720p, 480p",
    "seen": 1791062836,
    "title": "O'g'irlangan qiz 2 / Satyabhama Hind kino 2024"
+  },
+  "18604": {
+   "badge": "",
+   "quality": "1080p, 720p, 480p",
+   "seen": 1791129290,
+   "title": "Aql ortidagi soya 2026"
   }
  },
  "uzmovi": {
