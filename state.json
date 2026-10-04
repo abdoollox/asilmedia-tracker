@@ -1,6 +1,7 @@
 {
  "_order": {
   "asilmedia": [
+   "18606",
    "18605",
    "18511",
    "18506",
@@ -35,8 +36,7 @@
    "18584",
    "18583",
    "18582",
-   "18581",
-   "18580"
+   "18581"
   ],
   "uzmovi": [
    "8999",
@@ -430,6 +430,12 @@
    "quality": "1080p, 720p, 480p",
    "seen": 1791141404,
    "title": "Qasos uchun qaytish / Yuk tashuvchi Hind kino 2025"
+  },
+  "18606": {
+   "badge": "",
+   "quality": "1080p, 720p, 480p",
+   "seen": 1791152539,
+   "title": "O'quvchi qiyofasidagi josus / Bitiruvchi 2013"
   }
  },
  "uzmovi": {
