@@ -1,6 +1,8 @@
 {
  "_order": {
   "asilmedia": [
+   "18607",
+   "13644",
    "18606",
    "18605",
    "18511",
@@ -23,7 +25,6 @@
    "18592",
    "18591",
    "18590",
-   "13644",
    "17018",
    "15916",
    "18589",
@@ -35,8 +36,7 @@
    "18585",
    "18584",
    "18583",
-   "18582",
-   "18581"
+   "18582"
   ],
   "uzmovi": [
    "8999",
@@ -109,7 +109,7 @@
    "title": "Ruhshunos / Ruxshunos Mentalist"
   },
   "13644": {
-   "badge": "1-fasl 6-qism",
+   "badge": "1-fasl 7-qism",
    "quality": "1080p, 480p",
    "seen": 1790755193,
    "title": "Yengilmas / Непобедимый / Invincible AQSH seriali"
@@ -436,6 +436,12 @@
    "quality": "1080p, 720p, 480p",
    "seen": 1791152539,
    "title": "O'quvchi qiyofasidagi josus / Bitiruvchi 2013"
+  },
+  "18607": {
+   "badge": "1-qism",
+   "quality": "1080p, 480p",
+   "seen": 1791183696,
+   "title": "Guljamol / Ishq dostoni / Sohibjamol / Guljemal Turk seriali"
   }
  },
  "uzmovi": {
