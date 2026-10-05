@@ -1,6 +1,9 @@
 {
  "_order": {
   "asilmedia": [
+   "18314",
+   "18509",
+   "18609",
    "18608",
    "18607",
    "13644",
@@ -10,7 +13,6 @@
    "18506",
    "18493",
    "18604",
-   "18509",
    "18603",
    "18602",
    "18601",
@@ -34,9 +36,7 @@
    "18485",
    "18587",
    "18586",
-   "18585",
-   "18584",
-   "18583"
+   "18585"
   ],
   "uzmovi": [
    "8999",
@@ -126,6 +126,12 @@
    "seen": 1790755193,
    "title": "Qalqon agentlari"
   },
+  "18314": {
+   "badge": "2-fasl 2-qism",
+   "quality": "720p",
+   "seen": 1791239331,
+   "title": "Sevganim sensan 2026"
+  },
   "18440": {
    "badge": "3-fasl 5-qism",
    "quality": "1080p, 480p",
@@ -163,7 +169,7 @@
    "title": "Shiddatli hujum Premyera 2026"
   },
   "18509": {
-   "badge": "1-qism",
+   "badge": "2-qism",
    "quality": "1080p, 480p",
    "seen": 1791112845,
    "title": "Erta bahor 2026 Xitoy seriali"
@@ -448,6 +454,12 @@
    "quality": "1080p, 720p, 480p",
    "seen": 1791215833,
    "title": "Oltin tush / Tilla uyqu 2018"
+  },
+  "18609": {
+   "badge": "",
+   "quality": "1080p, 720p, 480p",
+   "seen": 1791239331,
+   "title": "So'nggi o'q / Oxirgi urinish 2026"
   }
  },
  "uzmovi": {
