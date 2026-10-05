@@ -1,6 +1,7 @@
 {
  "_order": {
   "asilmedia": [
+   "18608",
    "18607",
    "13644",
    "18606",
@@ -35,8 +36,7 @@
    "18586",
    "18585",
    "18584",
-   "18583",
-   "18582"
+   "18583"
   ],
   "uzmovi": [
    "8999",
@@ -438,10 +438,16 @@
    "title": "O'quvchi qiyofasidagi josus / Bitiruvchi 2013"
   },
   "18607": {
-   "badge": "1-qism",
+   "badge": "5-qism",
    "quality": "1080p, 480p",
    "seen": 1791183696,
    "title": "Guljamol / Ishq dostoni / Sohibjamol / Guljemal Turk seriali"
+  },
+  "18608": {
+   "badge": "",
+   "quality": "1080p, 720p, 480p",
+   "seen": 1791215833,
+   "title": "Oltin tush / Tilla uyqu 2018"
   }
  },
  "uzmovi": {
