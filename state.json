@@ -1,6 +1,8 @@
 {
  "_order": {
   "asilmedia": [
+   "18611",
+   "18610",
    "18314",
    "18509",
    "18609",
@@ -34,9 +36,7 @@
    "18588",
    "18505",
    "18485",
-   "18587",
-   "18586",
-   "18585"
+   "18587"
   ],
   "uzmovi": [
    "8999",
@@ -460,6 +460,18 @@
    "quality": "1080p, 720p, 480p",
    "seen": 1791239331,
    "title": "So'nggi o'q / Oxirgi urinish 2026"
+  },
+  "18610": {
+   "badge": "9-qism",
+   "quality": "1080p, 480p",
+   "seen": 1791253645,
+   "title": "Neva ustidagi dahshat 2023"
+  },
+  "18611": {
+   "badge": "3-qism",
+   "quality": "1080p, 480p",
+   "seen": 1791253645,
+   "title": "Muhabbat va taxt 2026"
   }
  },
  "uzmovi": {
