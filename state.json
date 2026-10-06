@@ -1,6 +1,10 @@
 {
  "_order": {
   "asilmedia": [
+   "18488",
+   "18614",
+   "18613",
+   "18493",
    "18612",
    "18611",
    "18610",
@@ -14,7 +18,6 @@
    "18605",
    "18511",
    "18506",
-   "18493",
    "18604",
    "18603",
    "18602",
@@ -33,10 +36,7 @@
    "18590",
    "17018",
    "15916",
-   "18589",
-   "18588",
-   "18505",
-   "18485"
+   "18589"
   ],
   "uzmovi": [
    "8999",
@@ -144,8 +144,14 @@
    "seen": 1790755193,
    "title": "Mangus 2026"
   },
+  "18488": {
+   "badge": "",
+   "quality": "1080p, 720p, 480p",
+   "seen": 1791302553,
+   "title": "Baddi / Do'st 2026"
+  },
   "18493": {
-   "badge": "7-qism",
+   "badge": "8-qism",
    "quality": "1080p, 480p",
    "seen": 1790755193,
    "title": "Tungi agent / Tungi qo'riqchi / Tungi tansoqchi 2023 xorij seriali"
@@ -478,6 +484,18 @@
    "quality": "1080p",
    "seen": 1791278343,
    "title": "Tabiat qonuni 2026"
+  },
+  "18613": {
+   "badge": "2-fasl 13-qism",
+   "quality": "1080p",
+   "seen": 1791302553,
+   "title": "Uzoq shahar / Uzak Sehir 2024 Turk seriali"
+  },
+  "18614": {
+   "badge": "24-qism",
+   "quality": "1080p",
+   "seen": 1791302553,
+   "title": "Nevskiy 2015"
   }
  },
  "uzmovi": {
@@ -867,7 +885,7 @@
    "badge": "",
    "date": "Sat, 03 Oct 2026 13:06:08 +0500",
    "seen": 1791021340,
-   "title": "Ilk muhabbat / Biricnhi sevgi / Yuragimning organi"
+   "title": "Ilk muhabbat / Birinchi sevgi / Yuragimning organi"
   }
  }
 }
