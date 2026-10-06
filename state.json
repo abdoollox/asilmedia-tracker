@@ -1,8 +1,9 @@
 {
  "_order": {
   "asilmedia": [
-   "18488",
+   "18615",
    "18614",
+   "18488",
    "18613",
    "18493",
    "18612",
@@ -35,8 +36,7 @@
    "18591",
    "18590",
    "17018",
-   "15916",
-   "18589"
+   "15916"
   ],
   "uzmovi": [
    "8999",
@@ -492,10 +492,16 @@
    "title": "Uzoq shahar / Uzak Sehir 2024 Turk seriali"
   },
   "18614": {
-   "badge": "24-qism",
+   "badge": "2-fasl 21-qism",
    "quality": "1080p",
    "seen": 1791302553,
    "title": "Nevskiy 2015"
+  },
+  "18615": {
+   "badge": "2-qism",
+   "quality": "1080p",
+   "seen": 1791320209,
+   "title": "Katta o'lja: Bankok 2025"
   }
  },
  "uzmovi": {
@@ -885,7 +891,7 @@
    "badge": "",
    "date": "Sat, 03 Oct 2026 13:06:08 +0500",
    "seen": 1791021340,
-   "title": "Ilk muhabbat / Birinchi sevgi / Yuragimning organi"
+   "title": "Ilk muhabbat / Biricnhi sevgi / Yuragimning organi"
   }
  }
 }
