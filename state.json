@@ -1,6 +1,9 @@
 {
  "_order": {
   "asilmedia": [
+   "18618",
+   "18585",
+   "18617",
    "18616",
    "18405",
    "18421",
@@ -33,10 +36,7 @@
    "18598",
    "18561",
    "18596",
-   "18594",
-   "18593",
-   "18592",
-   "18591"
+   "18594"
   ],
   "uzmovi": [
    "8999",
@@ -342,7 +342,7 @@
    "title": "Kul va Olmos 1958"
   },
   "18585": {
-   "badge": "8-qism!",
+   "badge": "15-qism!",
    "quality": "1080p, 480p",
    "seen": 1790755193,
    "title": "Gullar va gunohlar / Atirgullar va gunohlar / Güller ve Günahlar / Розы и грехи 2025 turk seriali"
@@ -462,7 +462,7 @@
    "title": "O'quvchi qiyofasidagi josus / Bitiruvchi 2013"
   },
   "18607": {
-   "badge": "15-qism",
+   "badge": "5-qism",
    "quality": "1080p, 480p",
    "seen": 1791183696,
    "title": "Guljamol / Ishq dostoni / Sohibjamol / Guljemal Turk seriali"
@@ -492,7 +492,7 @@
    "title": "Muhabbat va taxt 2026"
   },
   "18612": {
-   "badge": "13-qism",
+   "badge": "Barcha qismlar",
    "quality": "1080p",
    "seen": 1791278343,
    "title": "Tabiat qonuni 2026"
@@ -520,6 +520,18 @@
    "quality": "1080p, 480p",
    "seen": 1791480826,
    "title": "Skandal: Chosondagi mojaro Koreya dorama seriali 2026"
+  },
+  "18617": {
+   "badge": "",
+   "quality": "1080p, 720p, 480p",
+   "seen": 1791498352,
+   "title": "O'ldir yoki o'lasan / Bebi, o'ldir yoki o'l / Bebi, o'ldir yoki o'lasan 2026"
+  },
+  "18618": {
+   "badge": "4-qism",
+   "quality": "1080p",
+   "seen": 1791498352,
+   "title": "Oila 2023"
   }
  },
  "uzmovi": {
