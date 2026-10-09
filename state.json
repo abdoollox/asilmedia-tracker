@@ -1,13 +1,14 @@
 {
  "_order": {
   "asilmedia": [
+   "18619",
+   "18405",
    "18618",
    "18607",
    "18398",
    "18585",
    "18617",
    "18616",
-   "18405",
    "18421",
    "18615",
    "18614",
@@ -35,8 +36,7 @@
    "18440",
    "18599",
    "18598",
-   "18561",
-   "18596"
+   "18561"
   ],
   "uzmovi": [
    "8999",
@@ -133,20 +133,20 @@
    "title": "Sevganim sensan 2026"
   },
   "18398": {
-   "badge": "8-qism",
+   "badge": "3-qism",
    "quality": "1080p, 480p",
    "seen": 1791512783,
    "title": "Tutun odam / Bug' gaz erkak 2026 Koreya seriali"
   },
   "18405": {
-   "badge": "7-qism",
+   "badge": "5-qism",
    "quality": "1080p, 480p",
    "seen": 1791480826,
    "title": "Laki 2026"
   },
   "18421": {
    "badge": "",
-   "quality": "1080p, 720p, 480p, TS",
+   "quality": "1080p, 720p, 480p",
    "seen": 1791401734,
    "title": "Sakamoto kundaligi / Sakamotoning kunlari 2026 Yaponiya filmi"
   },
@@ -164,7 +164,7 @@
   },
   "18488": {
    "badge": "",
-   "quality": "1080p, 720p, 480p",
+   "quality": "1080p, 720p, 480p, TS",
    "seen": 1791302553,
    "title": "Baddi / Do'st 2026"
   },
@@ -538,6 +538,12 @@
    "quality": "1080p",
    "seen": 1791498352,
    "title": "Oila 2023"
+  },
+  "18619": {
+   "badge": "",
+   "quality": "1080p, 720p, 480p",
+   "seen": 1791563408,
+   "title": "Taqdirim o'zgargan tun / Romeo operatsiyasi 2022"
   }
  },
  "uzmovi": {
