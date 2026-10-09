@@ -1,6 +1,8 @@
 {
  "_order": {
   "asilmedia": [
+   "18620",
+   "18489",
    "18619",
    "18405",
    "18618",
@@ -34,9 +36,7 @@
    "11637",
    "18600",
    "18440",
-   "18599",
-   "18598",
-   "18561"
+   "18599"
   ],
   "uzmovi": [
    "8999",
@@ -167,6 +167,12 @@
    "quality": "1080p, 720p, 480p, TS",
    "seen": 1791302553,
    "title": "Baddi / Do'st 2026"
+  },
+  "18489": {
+   "badge": "",
+   "quality": "1080p, 720p, 480p",
+   "seen": 1791580476,
+   "title": "Noto'g'ri qadam 2: O'lim nuqtasi / Mudhish xato 2026"
   },
   "18493": {
    "badge": "8-qism",
@@ -544,6 +550,12 @@
    "quality": "1080p, 720p, 480p",
    "seen": 1791563408,
    "title": "Taqdirim o'zgargan tun / Romeo operatsiyasi 2022"
+  },
+  "18620": {
+   "badge": "",
+   "quality": "1080p, 720p, 480p",
+   "seen": 1791580476,
+   "title": "Kung-Fu ayollar futboli 2026"
   }
  },
  "uzmovi": {
