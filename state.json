@@ -1,6 +1,7 @@
 {
  "_order": {
   "asilmedia": [
+   "18621",
    "18620",
    "18489",
    "18619",
@@ -35,10 +36,12 @@
    "18601",
    "11637",
    "18600",
-   "18440",
-   "18599"
+   "18440"
   ],
   "uzmovi": [
+   "9002",
+   "9001",
+   "9000",
    "8999",
    "8998",
    "8997",
@@ -95,10 +98,7 @@
    "8925",
    "8924",
    "8922",
-   "8921",
-   "8920",
-   "8919",
-   "8918"
+   "8921"
   ]
  },
  "asilmedia": {
@@ -556,6 +556,12 @@
    "quality": "1080p, 720p, 480p",
    "seen": 1791580476,
    "title": "Kung-Fu ayollar futboli 2026"
+  },
+  "18621": {
+   "badge": "",
+   "quality": "1080p, 720p, 480p",
+   "seen": 1791593931,
+   "title": "Katta o'g'irlik 3 / Bankni o'marish 3 2026"
   }
  },
  "uzmovi": {
@@ -946,6 +952,24 @@
    "date": "Sat, 03 Oct 2026 13:06:08 +0500",
    "seen": 1791021340,
    "title": "Ilk muhabbat / Birinchi sevgi / Yuragimning organi"
+  },
+  "9000": {
+   "badge": "",
+   "date": "Sat, 10 Oct 2026 04:57:23 +0500",
+   "seen": 1791593931,
+   "title": "So'nggi bitta o'q 2026 premyera"
+  },
+  "9001": {
+   "badge": "",
+   "date": "Sat, 10 Oct 2026 05:06:19 +0500",
+   "seen": 1791593931,
+   "title": "O'ldir yoki o'lasan 2026 hind kino premyera"
+  },
+  "9002": {
+   "badge": "",
+   "date": "Sat, 10 Oct 2026 05:11:03 +0500",
+   "seen": 1791593931,
+   "title": "Katta o'g'irlik 3 / Bankni o'marish: O'g'ri jentlmen 2026 premyera"
   }
  }
 }
