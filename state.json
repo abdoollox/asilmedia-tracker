@@ -1,6 +1,9 @@
 {
  "_order": {
   "asilmedia": [
+   "15916",
+   "18551",
+   "18426",
    "18624",
    "18509",
    "18623",
@@ -33,10 +36,7 @@
    "18609",
    "18608",
    "18606",
-   "18605",
-   "18511",
-   "18506",
-   "18604"
+   "18605"
   ],
   "uzmovi": [
    "9010",
@@ -115,7 +115,7 @@
    "title": "Yengilmas / Непобедимый / Invincible AQSH seriali"
   },
   "15916": {
-   "badge": "4-fasl 3-qism!",
+   "badge": "4-fasl 4-qism!",
    "quality": "1080p, 480p",
    "seen": 1790771786,
    "title": "Jek Richer seriali"
@@ -149,6 +149,12 @@
    "quality": "1080p, 720p, 480p",
    "seen": 1791401734,
    "title": "Sakamoto kundaligi / Sakamotoning kunlari 2026 Yaponiya filmi"
+  },
+  "18426": {
+   "badge": "5-qism!",
+   "quality": "1080p, 480p",
+   "seen": 1791667711,
+   "title": "Nanyang jumbog'i / Janubiy arxivlar Xitoy seriali"
   },
   "18440": {
    "badge": "3-fasl 5-qism",
@@ -215,6 +221,12 @@
    "quality": "1080p, 720p, 480p",
    "seen": 1791655029,
    "title": "Bir-biri uchun yaratilganlar / Bir tanu bir jon 2026"
+  },
+  "18551": {
+   "badge": "",
+   "quality": "1080p, 720p, 480p",
+   "seen": 1791667711,
+   "title": "Salmokji: Shivirlayotgan suv 2026 Qo'rqinchli Premyera"
   },
   "18559": {
    "badge": "",
