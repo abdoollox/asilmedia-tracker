@@ -1,6 +1,9 @@
 {
  "_order": {
   "asilmedia": [
+   "18582",
+   "18622",
+   "13644",
    "18621",
    "18620",
    "18489",
@@ -25,7 +28,6 @@
    "18509",
    "18609",
    "18608",
-   "13644",
    "18606",
    "18605",
    "18511",
@@ -34,9 +36,7 @@
    "18603",
    "18602",
    "18601",
-   "11637",
-   "18600",
-   "18440"
+   "11637"
   ],
   "uzmovi": [
    "8999",
@@ -109,7 +109,7 @@
    "title": "Ruhshunos / Ruxshunos Mentalist"
   },
   "13644": {
-   "badge": "1-fasl 7-qism",
+   "badge": "1-fasl to'liq",
    "quality": "1080p, 480p",
    "seen": 1790755193,
    "title": "Yengilmas / Непобедимый / Invincible AQSH seriali"
@@ -337,7 +337,7 @@
   },
   "18582": {
    "badge": "",
-   "quality": "1080p, 720p, 480p",
+   "quality": "4K, 1080p, 720p, 480p",
    "seen": 1790755193,
    "title": "Onaning mahluqi / Ona tuqqan mahluq"
   },
@@ -562,6 +562,12 @@
    "quality": "1080p, 720p, 480p",
    "seen": 1791593931,
    "title": "Katta o'g'irlik 3 / Bankni o'marish 3 2026"
+  },
+  "18622": {
+   "badge": "",
+   "quality": "1080p, 720p, 480p",
+   "seen": 1791638890,
+   "title": "Adal 2025"
   }
  },
  "uzmovi": {
