@@ -1,6 +1,11 @@
 {
  "_order": {
   "asilmedia": [
+   "18624",
+   "18509",
+   "18623",
+   "17018",
+   "18523",
    "18582",
    "18622",
    "13644",
@@ -25,20 +30,23 @@
    "18611",
    "18610",
    "18314",
-   "18509",
    "18609",
    "18608",
    "18606",
    "18605",
    "18511",
    "18506",
-   "18604",
-   "18603",
-   "18602",
-   "18601",
-   "11637"
+   "18604"
   ],
   "uzmovi": [
+   "9010",
+   "8467",
+   "9009",
+   "9008",
+   "9007",
+   "9002",
+   "9001",
+   "9000",
    "8999",
    "8998",
    "8997",
@@ -90,15 +98,7 @@
    "8930",
    "8929",
    "8928",
-   "8927",
-   "8926",
-   "8925",
-   "8924",
-   "8922",
-   "8921",
-   "8920",
-   "8919",
-   "8918"
+   "8927"
   ]
  },
  "asilmedia": {
@@ -121,7 +121,7 @@
    "title": "Jek Richer seriali"
   },
   "17018": {
-   "badge": "4-fasl 8-qism!",
+   "badge": "4-fasl 9-qism!",
    "quality": "1080p, 720p, 480p",
    "seen": 1790755193,
    "title": "Qalqon agentlari"
@@ -199,7 +199,7 @@
    "title": "Shiddatli hujum Premyera 2026"
   },
   "18509": {
-   "badge": "2-qism",
+   "badge": "3-qism",
    "quality": "1080p, 480p",
    "seen": 1791112845,
    "title": "Erta bahor 2026 Xitoy seriali"
@@ -209,6 +209,12 @@
    "quality": "1080p, 720p, 480p, TS",
    "seen": 1791129290,
    "title": "Umid Premyera 2026"
+  },
+  "18523": {
+   "badge": "",
+   "quality": "1080p, 720p, 480p",
+   "seen": 1791655029,
+   "title": "Bir-biri uchun yaratilganlar / Bir tanu bir jon 2026"
   },
   "18559": {
    "badge": "",
@@ -568,9 +574,26 @@
    "quality": "1080p, 720p, 480p",
    "seen": 1791638890,
    "title": "Adal 2025"
+  },
+  "18623": {
+   "badge": "",
+   "quality": "1080p, 720p, 480p",
+   "seen": 1791655029,
+   "title": "Raqobatchi kelinlar 2026"
+  },
+  "18624": {
+   "badge": "",
+   "quality": "1080p, 720p, 480p",
+   "seen": 1791655029,
+   "title": "Yovuzlik maskani / Yomonlik qarorgohi 2026"
   }
  },
  "uzmovi": {
+  "8467": {
+   "badge": "Sat, 10 Oct 2026 16:17:00 +0500",
+   "seen": 1791655029,
+   "title": "Yer osti Yerosti Yeralti 2 mavsum fasl yangi turk serial"
+  },
   "8911": {
    "badge": "Wed, 09 Sep 2026 05:19:04 +0500",
    "seen": 1790757791,
@@ -976,6 +999,27 @@
    "date": "Sat, 10 Oct 2026 05:11:03 +0500",
    "seen": 1791593931,
    "title": "Katta o'g'irlik 3 / Bankni o'marish: O'g'ri jentlmen 2026 premyera"
+  },
+  "9007": {
+   "badge": "Sat, 10 Oct 2026 15:52:00 +0500",
+   "seen": 1791655029,
+   "title": "Firibgarlar premyera turk serial uzbek o‘zbek tilida onlayn ko‘rish"
+  },
+  "9008": {
+   "badge": "Sat, 10 Oct 2026 16:00:00 +0500",
+   "seen": 1791655029,
+   "title": "Oila bu sinov imtihon premyera turk serial uzbek o‘zbek tilida onlayn ko‘rish"
+  },
+  "9009": {
+   "badge": "Sat, 10 Oct 2026 16:06:00 +0500",
+   "seen": 1791655029,
+   "title": "Sevganim sensan 2026 premyera turk serial"
+  },
+  "9010": {
+   "badge": "",
+   "date": "Sat, 10 Oct 2026 17:54:00 +0500",
+   "seen": 1791655029,
+   "title": "Yovuzlik maskani 2026 premyera kino uzbek o‘zbek tilida onlayn ko‘rish"
   }
  }
 }
