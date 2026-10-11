@@ -1,6 +1,7 @@
 {
  "_order": {
   "asilmedia": [
+   "18585",
    "17018",
    "13644",
    "18551",
@@ -20,7 +21,6 @@
    "18618",
    "18607",
    "18398",
-   "18585",
    "18617",
    "18616",
    "18421",
@@ -39,6 +39,10 @@
    "18605"
   ],
   "uzmovi": [
+   "9014",
+   "9013",
+   "9012",
+   "9011",
    "9010",
    "8467",
    "9009",
@@ -94,11 +98,7 @@
    "8934",
    "8933",
    "8932",
-   "8931",
-   "8930",
-   "8929",
-   "8928",
-   "8927"
+   "8931"
   ]
  },
  "asilmedia": {
@@ -372,7 +372,7 @@
    "title": "Kul va Olmos 1958"
   },
   "18585": {
-   "badge": "15-qism!",
+   "badge": "20-qism!",
    "quality": "1080p, 480p",
    "seen": 1790755193,
    "title": "Gullar va gunohlar / Atirgullar va gunohlar / Güller ve Günahlar / Розы и грехи 2025 turk seriali"
@@ -1002,13 +1002,13 @@
   },
   "9001": {
    "badge": "",
-   "date": "Sat, 10 Oct 2026 05:06:19 +0500",
+   "date": "Sat, 10 Oct 2026 05:06:00 +0500",
    "seen": 1791593931,
    "title": "O'ldir yoki o'lasan 2026 hind kino premyera"
   },
   "9002": {
    "badge": "",
-   "date": "Sat, 10 Oct 2026 05:11:03 +0500",
+   "date": "Sat, 10 Oct 2026 05:11:00 +0500",
    "seen": 1791593931,
    "title": "Katta o'g'irlik 3 / Bankni o'marish: O'g'ri jentlmen 2026 premyera"
   },
@@ -1032,6 +1032,30 @@
    "date": "Sat, 10 Oct 2026 17:54:00 +0500",
    "seen": 1791655029,
    "title": "Yovuzlik maskani 2026 premyera kino uzbek o‘zbek tilida onlayn ko‘rish"
+  },
+  "9011": {
+   "badge": "",
+   "date": "Sun, 11 Oct 2026 14:36:00 +0500",
+   "seen": 1791741760,
+   "title": "Romeo operatsiyasi Taqdirim o'zgargan kun 2022 premyera kino uzbek o‘zbek tilida onlayn ko‘rish"
+  },
+  "9012": {
+   "badge": "",
+   "date": "Sun, 11 Oct 2026 14:38:00 +0500",
+   "seen": 1791741760,
+   "title": "Yuk tashuvchi Qasos uchun qaytish Gruzchik 2025 premyera kino uzbek o‘zbek tilida onlayn ko‘rish"
+  },
+  "9013": {
+   "badge": "",
+   "date": "Sun, 11 Oct 2026 14:43:00 +0500",
+   "seen": 1791741760,
+   "title": "Bitiruvchi Majburiyat O'quvchi qiyofasidagi josus 2013 premyera kino uzbek o‘zbek tilida onlayn ko‘rish"
+  },
+  "9014": {
+   "badge": "",
+   "date": "Sun, 11 Oct 2026 14:49:00 +0500",
+   "seen": 1791741760,
+   "title": "Unabomber aql ostidagi soya 2026 premyera kino uzbek o‘zbek tilida onlayn ko‘rish"
   }
  }
 }
