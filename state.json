@@ -1,6 +1,8 @@
 {
  "_order": {
   "asilmedia": [
+   "18440",
+   "18627",
    "18405",
    "18439",
    "18398",
@@ -34,9 +36,7 @@
    "18613",
    "18612",
    "18611",
-   "18610",
-   "18314",
-   "18609"
+   "18610"
   ],
   "uzmovi": [
    "9014",
@@ -163,7 +163,7 @@
    "title": "Orol Koreya dorama seriali 2022"
   },
   "18440": {
-   "badge": "3-fasl 5-qism",
+   "badge": "3-fasl 11-qism",
    "quality": "1080p, 480p",
    "seen": 1790755193,
    "title": "Najot shifoxonasi / Ustoz Kim Koreya seriali 2016"
@@ -616,6 +616,12 @@
    "quality": "1080p, 720p, 480p",
    "seen": 1791823841,
    "title": "Yirtqich / Qonxo'r hayvon 2022"
+  },
+  "18627": {
+   "badge": "",
+   "quality": "480p",
+   "seen": 1791847903,
+   "title": "Benom / O'g'irlangan o'g'il 1974"
   }
  },
  "uzmovi": {
