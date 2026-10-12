@@ -1,6 +1,11 @@
 {
  "_order": {
   "asilmedia": [
+   "18405",
+   "18439",
+   "18398",
+   "18626",
+   "18493",
    "18625",
    "18585",
    "17018",
@@ -18,10 +23,8 @@
    "18620",
    "18489",
    "18619",
-   "18405",
    "18618",
    "18607",
-   "18398",
    "18617",
    "18616",
    "18421",
@@ -29,14 +32,11 @@
    "18614",
    "18488",
    "18613",
-   "18493",
    "18612",
    "18611",
    "18610",
    "18314",
-   "18609",
-   "18608",
-   "18606"
+   "18609"
   ],
   "uzmovi": [
    "9014",
@@ -133,13 +133,13 @@
    "title": "Sevganim sensan 2026"
   },
   "18398": {
-   "badge": "3-qism",
+   "badge": "4-qism",
    "quality": "1080p, 480p",
    "seen": 1791512783,
    "title": "Tutun odam / Bug' gaz erkak 2026 Koreya seriali"
   },
   "18405": {
-   "badge": "5-qism",
+   "badge": "6-qism",
    "quality": "1080p, 480p",
    "seen": 1791480826,
    "title": "Laki 2026"
@@ -155,6 +155,12 @@
    "quality": "1080p, 480p",
    "seen": 1791667711,
    "title": "Nanyang jumbog'i / Janubiy arxivlar Xitoy seriali"
+  },
+  "18439": {
+   "badge": "1-qism",
+   "quality": "1080p, 480p",
+   "seen": 1791823841,
+   "title": "Orol Koreya dorama seriali 2022"
   },
   "18440": {
    "badge": "3-fasl 5-qism",
@@ -181,7 +187,7 @@
    "title": "Noto'g'ri qadam 2: O'lim nuqtasi / Mudhish xato 2026"
   },
   "18493": {
-   "badge": "8-qism",
+   "badge": "9-qism",
    "quality": "1080p, 480p",
    "seen": 1790755193,
    "title": "Tungi agent / Tungi qo'riqchi / Tungi tansoqchi 2023 xorij seriali"
@@ -604,6 +610,12 @@
    "quality": "1080p, 720p, 480p",
    "seen": 1791755591,
    "title": "Taqdir o'yinlari / Bir oila 2010"
+  },
+  "18626": {
+   "badge": "",
+   "quality": "1080p, 720p, 480p",
+   "seen": 1791823841,
+   "title": "Yirtqich / Qonxo'r hayvon 2022"
   }
  },
  "uzmovi": {
