@@ -1,6 +1,8 @@
 {
  "_order": {
   "asilmedia": [
+   "13644",
+   "18628",
    "18440",
    "18627",
    "18405",
@@ -11,7 +13,6 @@
    "18625",
    "18585",
    "17018",
-   "13644",
    "18551",
    "15916",
    "18426",
@@ -35,10 +36,14 @@
    "18488",
    "18613",
    "18612",
-   "18611",
-   "18610"
+   "18611"
   ],
   "uzmovi": [
+   "9028",
+   "9027",
+   "9026",
+   "9025",
+   "9024",
    "9014",
    "9013",
    "9012",
@@ -93,12 +98,7 @@
    "8939",
    "8938",
    "8937",
-   "8936",
-   "8935",
-   "8934",
-   "8933",
-   "8932",
-   "8931"
+   "8936"
   ]
  },
  "asilmedia": {
@@ -622,6 +622,12 @@
    "quality": "480p",
    "seen": 1791847903,
    "title": "Benom / O'g'irlangan o'g'il 1974"
+  },
+  "18628": {
+   "badge": "",
+   "quality": "480p",
+   "seen": 1791890956,
+   "title": "Lev Tolstoy 1984"
   }
  },
  "uzmovi": {
@@ -1080,6 +1086,36 @@
    "date": "Sun, 11 Oct 2026 14:49:00 +0500",
    "seen": 1791741760,
    "title": "Unabomber aql ostidagi soya 2026 premyera kino uzbek o‘zbek tilida onlayn ko‘rish"
+  },
+  "9024": {
+   "badge": "",
+   "date": "Tue, 13 Oct 2026 01:34:00 +0500",
+   "seen": 1791890956,
+   "title": "So'zlar premyera kino uzbek o‘zbek tilida onlayn ko‘rish"
+  },
+  "9025": {
+   "badge": "",
+   "date": "Tue, 13 Oct 2026 01:39:00 +0500",
+   "seen": 1791890956,
+   "title": "O'g'rilangan qizlar 2 / Zolushka premyera hind kino uzbek o‘zbek tilida onlayn ko‘rish"
+  },
+  "9026": {
+   "badge": "",
+   "date": "Tue, 13 Oct 2026 01:44:00 +0500",
+   "seen": 1791890956,
+   "title": "Yirtqich hayvon / Maxluq 2022 premyera kino uzbek o‘zbek tilida onlayn ko‘rish"
+  },
+  "9027": {
+   "badge": "",
+   "date": "Tue, 13 Oct 2026 01:53:00 +0500",
+   "seen": 1791890956,
+   "title": "Raqobatchi kelinlar / Bizning uyimiz oltin 2026 premyera hind kino uzbek o‘zbek tilida onlayn ko‘rish"
+  },
+  "9028": {
+   "badge": "",
+   "date": "Tue, 13 Oct 2026 03:47:00 +0500",
+   "seen": 1791890956,
+   "title": "Noto'g'ri qadam 2: O'lim nuqtasi / Minora 2 / Vishka 2026 premyera kino uzbek o‘zbek tilida onlayn ko‘rish"
   }
  }
 }
