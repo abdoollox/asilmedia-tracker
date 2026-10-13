@@ -1,9 +1,10 @@
 {
  "_order": {
   "asilmedia": [
+   "18440",
+   "18509",
    "13644",
    "18628",
-   "18440",
    "18627",
    "18405",
    "18439",
@@ -17,7 +18,6 @@
    "15916",
    "18426",
    "18624",
-   "18509",
    "18623",
    "18523",
    "18582",
@@ -39,6 +39,7 @@
    "18611"
   ],
   "uzmovi": [
+   "9029",
    "9028",
    "9027",
    "9026",
@@ -97,8 +98,7 @@
    "8940",
    "8939",
    "8938",
-   "8937",
-   "8936"
+   "8937"
   ]
  },
  "asilmedia": {
@@ -163,7 +163,7 @@
    "title": "Orol Koreya dorama seriali 2022"
   },
   "18440": {
-   "badge": "3-fasl 11-qism",
+   "badge": "3-fasl 12-qism",
    "quality": "1080p, 480p",
    "seen": 1790755193,
    "title": "Najot shifoxonasi / Ustoz Kim Koreya seriali 2016"
@@ -211,7 +211,7 @@
    "title": "Shiddatli hujum Premyera 2026"
   },
   "18509": {
-   "badge": "3-qism",
+   "badge": "4-qism",
    "quality": "1080p, 480p",
    "seen": 1791112845,
    "title": "Erta bahor 2026 Xitoy seriali"
@@ -1116,6 +1116,12 @@
    "date": "Tue, 13 Oct 2026 03:47:00 +0500",
    "seen": 1791890956,
    "title": "Noto'g'ri qadam 2: O'lim nuqtasi / Minora 2 / Vishka 2026 premyera kino uzbek o‘zbek tilida onlayn ko‘rish"
+  },
+  "9029": {
+   "badge": "",
+   "date": "Tue, 13 Oct 2026 17:31:00 +0500",
+   "seen": 1791916085,
+   "title": "Voz kechilgan o'g'il / Shrikant premyera hind kino uzbek o‘zbek tilida onlayn ko‘rish"
   }
  }
 }
