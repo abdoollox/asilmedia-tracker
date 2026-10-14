@@ -1,6 +1,8 @@
 {
  "_order": {
   "asilmedia": [
+   "18168",
+   "17018",
    "18440",
    "18509",
    "13644",
@@ -13,7 +15,6 @@
    "18493",
    "18625",
    "18585",
-   "17018",
    "18551",
    "15916",
    "18426",
@@ -35,8 +36,7 @@
    "18614",
    "18488",
    "18613",
-   "18612",
-   "18611"
+   "18612"
   ],
   "uzmovi": [
    "9031",
@@ -125,6 +125,12 @@
    "quality": "1080p, 720p, 480p",
    "seen": 1790755193,
    "title": "Qalqon agentlari"
+  },
+  "18168": {
+   "badge": "9-qism",
+   "quality": "1080p, 480p",
+   "seen": 1791982538,
+   "title": "Yo'ldagi mashinalar / Chaqmoq Makvin va Metrning yangi sarguzashtlari 2022"
   },
   "18314": {
    "badge": "2-fasl 2-qism",
