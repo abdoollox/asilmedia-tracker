@@ -39,6 +39,8 @@
    "18611"
   ],
   "uzmovi": [
+   "9031",
+   "9030",
    "9029",
    "9028",
    "9027",
@@ -96,9 +98,7 @@
    "8942",
    "8941",
    "8940",
-   "8939",
-   "8938",
-   "8937"
+   "8939"
   ]
  },
  "asilmedia": {
@@ -1122,6 +1122,18 @@
    "date": "Tue, 13 Oct 2026 17:31:00 +0500",
    "seen": 1791916085,
    "title": "Voz kechilgan o'g'il / Shrikant premyera hind kino uzbek o‘zbek tilida onlayn ko‘rish"
+  },
+  "9030": {
+   "badge": "",
+   "date": "Wed, 14 Oct 2026 02:06:00 +0500",
+   "seen": 1791942689,
+   "title": "Yigirma yildan so'ng / Bir paytlar 20 yildan keyin SSSR filmi uzbek o‘zbek tilida onlayn ko‘rish"
+  },
+  "9031": {
+   "badge": "",
+   "date": "Wed, 14 Oct 2026 02:55:00 +0500",
+   "seen": 1791942689,
+   "title": "Kuryer / Yugurdak / Yuguruvchi 2026 premyera kino uzbek o‘zbek tilida onlayn ko‘rish"
   }
  }
 }
