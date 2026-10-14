@@ -1,15 +1,16 @@
 {
  "_order": {
   "asilmedia": [
+   "18629",
+   "18439",
+   "18440",
    "18168",
    "17018",
-   "18440",
    "18509",
    "13644",
    "18628",
    "18627",
    "18405",
-   "18439",
    "18398",
    "18626",
    "18493",
@@ -35,8 +36,7 @@
    "18615",
    "18614",
    "18488",
-   "18613",
-   "18612"
+   "18613"
   ],
   "uzmovi": [
    "9031",
@@ -163,13 +163,13 @@
    "title": "Nanyang jumbog'i / Janubiy arxivlar Xitoy seriali"
   },
   "18439": {
-   "badge": "1-qism",
+   "badge": "2-qism",
    "quality": "1080p, 480p",
    "seen": 1791823841,
    "title": "Orol Koreya dorama seriali 2022"
   },
   "18440": {
-   "badge": "3-fasl 12-qism",
+   "badge": "3-fasl 13-qism",
    "quality": "1080p, 480p",
    "seen": 1790755193,
    "title": "Najot shifoxonasi / Ustoz Kim Koreya seriali 2016"
@@ -369,7 +369,7 @@
    "badge": "",
    "quality": "4K, 1080p, 720p, 480p",
    "seen": 1790755193,
-   "title": "Onaning mahluqi / Ona tuqqan mahluq"
+   "title": "Onaning mahluqi / Ona tuqqan mahluq / Ajdarhoning onasi"
   },
   "18583": {
    "badge": "",
@@ -634,6 +634,12 @@
    "quality": "480p",
    "seen": 1791890956,
    "title": "Lev Tolstoy 1984"
+  },
+  "18629": {
+   "badge": "",
+   "quality": "1080p, 480p",
+   "seen": 1792000233,
+   "title": "Doktor X / Oq mafiya / Доктор Икс Koreya seriali 2026"
   }
  },
  "uzmovi": {
