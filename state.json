@@ -1,6 +1,7 @@
 {
  "_order": {
   "asilmedia": [
+   "18440",
    "18633",
    "13644",
    "18632",
@@ -9,7 +10,6 @@
    "18493",
    "18629",
    "18439",
-   "18440",
    "18168",
    "17018",
    "18509",
@@ -39,6 +39,7 @@
    "18421"
   ],
   "uzmovi": [
+   "9042",
    "9028",
    "9041",
    "9040",
@@ -97,8 +98,7 @@
    "8964",
    "8963",
    "8951",
-   "8950",
-   "8949"
+   "8950"
   ]
  },
  "asilmedia": {
@@ -169,7 +169,7 @@
    "title": "Orol Koreya dorama seriali 2022"
   },
   "18440": {
-   "badge": "3-fasl 13-qism",
+   "badge": "3-fasl 14-qism",
    "quality": "1080p, 480p",
    "seen": 1790755193,
    "title": "Najot shifoxonasi / Ustoz Kim Koreya seriali 2016"
@@ -1230,6 +1230,12 @@
    "date": "Thu, 15 Oct 2026 16:54:00 +0500",
    "seen": 1792073913,
    "title": "Taqdiridan norozilar / Noodatiy g'aroyib hikoyalar premyera hind kino uzbek o‘zbek tilida onlayn ko‘rish"
+  },
+  "9042": {
+   "badge": "",
+   "date": "Thu, 15 Oct 2026 19:28:00 +0500",
+   "seen": 1792088678,
+   "title": "So'nggi buyruq /  Sargardon hind kino uzbek o‘zbek tilida onlayn ko‘rish"
   }
  }
 }
