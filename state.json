@@ -1,6 +1,10 @@
 {
  "_order": {
   "asilmedia": [
+   "18633",
+   "13644",
+   "18632",
+   "18631",
    "18630",
    "18493",
    "18629",
@@ -9,7 +13,6 @@
    "18168",
    "17018",
    "18509",
-   "13644",
    "18628",
    "18627",
    "18405",
@@ -33,12 +36,13 @@
    "18607",
    "18617",
    "18616",
-   "18421",
-   "18615",
-   "18614",
-   "18488"
+   "18421"
   ],
   "uzmovi": [
+   "9028",
+   "9041",
+   "9040",
+   "9039",
    "9038",
    "9037",
    "9036",
@@ -49,7 +53,6 @@
    "9031",
    "9030",
    "9029",
-   "9028",
    "9027",
    "9026",
    "9025",
@@ -95,10 +98,7 @@
    "8963",
    "8951",
    "8950",
-   "8949",
-   "8948",
-   "8947",
-   "8946"
+   "8949"
   ]
  },
  "asilmedia": {
@@ -109,7 +109,7 @@
    "title": "Ruhshunos / Ruxshunos Mentalist"
   },
   "13644": {
-   "badge": "2-fasl 1-qism",
+   "badge": "2-fasl 2-qism",
    "quality": "1080p, 480p",
    "seen": 1790755193,
    "title": "Yengilmas / Непобедимый / Invincible AQSH seriali"
@@ -646,6 +646,24 @@
    "quality": "1080p, 720p, 480p",
    "seen": 1792056238,
    "title": "Srikanth / Srikanth Bolla 2024"
+  },
+  "18631": {
+   "badge": "",
+   "quality": "1080p, 720p, 480p",
+   "seen": 1792073913,
+   "title": "Matritsadagi nosozlik 2021"
+  },
+  "18632": {
+   "badge": "",
+   "quality": "1080p, 720p, 480p",
+   "seen": 1792073913,
+   "title": "Rassom va o'g'ri 2020"
+  },
+  "18633": {
+   "badge": "",
+   "quality": "1080p, 720p, 480p",
+   "seen": 1792073913,
+   "title": "Maxluq / Jin / Zolushka / Ratsasan 2018"
   }
  },
  "uzmovi": {
@@ -1131,9 +1149,9 @@
   },
   "9028": {
    "badge": "",
-   "date": "Tue, 13 Oct 2026 03:47:00 +0500",
+   "date": "Thu, 15 Oct 2026 17:01:00 +0500",
    "seen": 1791890956,
-   "title": "Noto'g'ri qadam 2: O'lim nuqtasi / Minora 2 / Vishka 2026 premyera kino uzbek o‘zbek tilida onlayn ko‘rish"
+   "title": "Noto'g'ri qadam 2: O'lim nuqtasi / Minora 2 / Vishka / Balandlik 2026 premyera kino uzbek o‘zbek tilida onlayn ko‘rish"
   },
   "9029": {
    "badge": "",
@@ -1194,6 +1212,24 @@
    "date": "Thu, 15 Oct 2026 03:50:00 +0500",
    "seen": 1792056238,
    "title": "Og'ir sayohat / yo'l kino uzbek o‘zbek tilida onlayn ko‘rish"
+  },
+  "9039": {
+   "badge": "",
+   "date": "Thu, 15 Oct 2026 16:44:00 +0500",
+   "seen": 1792073913,
+   "title": "Prissilla: Elvis va men premyera kino uzbek o‘zbek tilida onlayn ko‘rish"
+  },
+  "9040": {
+   "badge": "",
+   "date": "Thu, 15 Oct 2026 16:49:00 +0500",
+   "seen": 1792073913,
+   "title": "Ouk strit ko'chasining oxiri / chekkasida 2026 premyera kino uzbek o‘zbek tilida onlayn ko‘rish"
+  },
+  "9041": {
+   "badge": "",
+   "date": "Thu, 15 Oct 2026 16:54:00 +0500",
+   "seen": 1792073913,
+   "title": "Taqdiridan norozilar / Noodatiy g'aroyib hikoyalar premyera hind kino uzbek o‘zbek tilida onlayn ko‘rish"
   }
  }
 }
