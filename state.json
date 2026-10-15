@@ -1,6 +1,9 @@
 {
  "_order": {
   "asilmedia": [
+   "18636",
+   "18635",
+   "18634",
    "18440",
    "18633",
    "13644",
@@ -33,17 +36,9 @@
    "18489",
    "18619",
    "18618",
-   "18607",
-   "18617",
-   "18616",
-   "18421"
+   "18607"
   ],
   "uzmovi": [
-   "9042",
-   "9028",
-   "9041",
-   "9040",
-   "9039",
    "9038",
    "9037",
    "9036",
@@ -54,6 +49,7 @@
    "9031",
    "9030",
    "9029",
+   "9028",
    "9027",
    "9026",
    "9025",
@@ -98,7 +94,11 @@
    "8964",
    "8963",
    "8951",
-   "8950"
+   "8950",
+   "8949",
+   "8948",
+   "8947",
+   "8946"
   ]
  },
  "asilmedia": {
@@ -127,7 +127,7 @@
    "title": "Qalqon agentlari"
   },
   "18168": {
-   "badge": "9-qism",
+   "badge": "1-fasl to'liq",
    "quality": "1080p, 480p",
    "seen": 1791982538,
    "title": "Yo'ldagi mashinalar / Chaqmoq Makvin va Metrning yangi sarguzashtlari 2022"
@@ -664,6 +664,24 @@
    "quality": "1080p, 720p, 480p",
    "seen": 1792073913,
    "title": "Maxluq / Jin / Zolushka / Ratsasan 2018"
+  },
+  "18634": {
+   "badge": "",
+   "quality": "1080p, 720p, 480p",
+   "seen": 1792100300,
+   "title": "Zamonlar kuli: qaytish 1994"
+  },
+  "18635": {
+   "badge": "",
+   "quality": "1080p, 720p, 480p",
+   "seen": 1792100300,
+   "title": "Men qo'rqmayman 2003"
+  },
+  "18636": {
+   "badge": "",
+   "quality": "1080p, 720p, 480p",
+   "seen": 1792100300,
+   "title": "So'nggi Buyruq 1 / Sargardon 1 / Awarapan / Sayohatchi 2007"
   }
  },
  "uzmovi": {
@@ -1149,9 +1167,9 @@
   },
   "9028": {
    "badge": "",
-   "date": "Thu, 15 Oct 2026 17:01:00 +0500",
+   "date": "Tue, 13 Oct 2026 03:47:00 +0500",
    "seen": 1791890956,
-   "title": "Noto'g'ri qadam 2: O'lim nuqtasi / Minora 2 / Vishka / Balandlik 2026 premyera kino uzbek o‘zbek tilida onlayn ko‘rish"
+   "title": "Noto'g'ri qadam 2: O'lim nuqtasi / Minora 2 / Vishka 2026 premyera kino uzbek o‘zbek tilida onlayn ko‘rish"
   },
   "9029": {
    "badge": "",
