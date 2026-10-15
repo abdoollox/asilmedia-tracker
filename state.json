@@ -1,6 +1,8 @@
 {
  "_order": {
   "asilmedia": [
+   "18630",
+   "18493",
    "18629",
    "18439",
    "18440",
@@ -13,7 +15,6 @@
    "18405",
    "18398",
    "18626",
-   "18493",
    "18625",
    "18585",
    "18551",
@@ -35,10 +36,16 @@
    "18421",
    "18615",
    "18614",
-   "18488",
-   "18613"
+   "18488"
   ],
   "uzmovi": [
+   "9038",
+   "9037",
+   "9036",
+   "9035",
+   "9034",
+   "9033",
+   "9032",
    "9031",
    "9030",
    "9029",
@@ -91,14 +98,7 @@
    "8949",
    "8948",
    "8947",
-   "8946",
-   "8945",
-   "8944",
-   "8943",
-   "8942",
-   "8941",
-   "8940",
-   "8939"
+   "8946"
   ]
  },
  "asilmedia": {
@@ -193,7 +193,7 @@
    "title": "Noto'g'ri qadam 2: O'lim nuqtasi / Mudhish xato 2026"
   },
   "18493": {
-   "badge": "9-qism",
+   "badge": "1-fasl to'liq",
    "quality": "1080p, 480p",
    "seen": 1790755193,
    "title": "Tungi agent / Tungi qo'riqchi / Tungi tansoqchi 2023 xorij seriali"
@@ -640,6 +640,12 @@
    "quality": "1080p, 480p",
    "seen": 1792000233,
    "title": "Doktor X / Oq mafiya / Доктор Икс Koreya seriali 2026"
+  },
+  "18630": {
+   "badge": "",
+   "quality": "1080p, 720p, 480p",
+   "seen": 1792056238,
+   "title": "Srikanth / Srikanth Bolla 2024"
   }
  },
  "uzmovi": {
@@ -1109,7 +1115,7 @@
    "badge": "",
    "date": "Tue, 13 Oct 2026 01:39:00 +0500",
    "seen": 1791890956,
-   "title": "O'g'rilangan qizlar 2 / Zolushka premyera hind kino uzbek o‘zbek tilida onlayn ko‘rish"
+   "title": "O'g'irlangan qizlar 2 / Zolushka premyera hind kino uzbek o‘zbek tilida onlayn ko‘rish"
   },
   "9026": {
    "badge": "",
@@ -1146,6 +1152,48 @@
    "date": "Wed, 14 Oct 2026 02:55:00 +0500",
    "seen": 1791942689,
    "title": "Kuryer / Yugurdak / Yuguruvchi 2026 premyera kino uzbek o‘zbek tilida onlayn ko‘rish"
+  },
+  "9032": {
+   "badge": "",
+   "date": "Thu, 15 Oct 2026 02:27:00 +0500",
+   "seen": 1792056238,
+   "title": "Zamonlar kuli: Qaytish  / Vaqtlar kuli premyera kino uzbek o‘zbek tilida onlayn ko‘rish"
+  },
+  "9033": {
+   "badge": "",
+   "date": "Thu, 15 Oct 2026 02:42:00 +0500",
+   "seen": 1792056238,
+   "title": "Rassom va o'g'ri 2020 premyera kino uzbek o‘zbek tilida onlayn ko‘rish"
+  },
+  "9034": {
+   "badge": "",
+   "date": "Thu, 15 Oct 2026 02:51:00 +0500",
+   "seen": 1792056238,
+   "title": "Eng shafqatsiz yil kino uzbek o‘zbek tilida onlayn ko‘rish"
+  },
+  "9035": {
+   "badge": "",
+   "date": "Thu, 15 Oct 2026 02:57:00 +0500",
+   "seen": 1792056238,
+   "title": "Men qo'rqmayman kino uzbek o‘zbek tilida onlayn ko‘rish"
+  },
+  "9036": {
+   "badge": "",
+   "date": "Thu, 15 Oct 2026 03:22:00 +0500",
+   "seen": 1792056238,
+   "title": "Matritsadagi nosozlik kino uzbek o‘zbek tilida onlayn ko‘rish"
+  },
+  "9037": {
+   "badge": "",
+   "date": "Thu, 15 Oct 2026 03:27:00 +0500",
+   "seen": 1792056238,
+   "title": "Misteriom: Marko ta'siri / effekti premyera kino uzbek o‘zbek tilida onlayn ko‘rish"
+  },
+  "9038": {
+   "badge": "",
+   "date": "Thu, 15 Oct 2026 03:50:00 +0500",
+   "seen": 1792056238,
+   "title": "Og'ir sayohat / yo'l kino uzbek o‘zbek tilida onlayn ko‘rish"
   }
  }
 }
