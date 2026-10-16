@@ -1,6 +1,7 @@
 {
  "_order": {
   "asilmedia": [
+   "18639",
    "18440",
    "18638",
    "18405",
@@ -35,8 +36,7 @@
    "18622",
    "18621",
    "18620",
-   "18489",
-   "18619"
+   "18489"
   ],
   "uzmovi": [
    "9042",
@@ -694,6 +694,12 @@
    "quality": "1080p, 480p",
    "seen": 1792172395,
    "title": "100 kunlik yolg'on Koreya dorama seriali 2026 Yuz kun yashirin"
+  },
+  "18639": {
+   "badge": "",
+   "quality": "1080p, 720p, 480p",
+   "seen": 1792181148,
+   "title": "Taqdiridan Norozilar / G'aroyib hikoyalar / Ajoyib dostonlar / G‘ayrioddiy tarix 2021Uzbek tilida"
   }
  },
  "uzmovi": {
