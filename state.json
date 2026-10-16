@@ -1,12 +1,14 @@
 {
  "_order": {
   "asilmedia": [
+   "18440",
+   "18638",
+   "18405",
    "18637",
    "18398",
    "18636",
    "18635",
    "18634",
-   "18440",
    "18633",
    "13644",
    "18632",
@@ -20,7 +22,6 @@
    "18509",
    "18628",
    "18627",
-   "18405",
    "18626",
    "18625",
    "18585",
@@ -35,10 +36,10 @@
    "18621",
    "18620",
    "18489",
-   "18619",
-   "18618"
+   "18619"
   ],
   "uzmovi": [
+   "9042",
    "9028",
    "9041",
    "9040",
@@ -97,8 +98,7 @@
    "8964",
    "8963",
    "8951",
-   "8950",
-   "8949"
+   "8950"
   ]
  },
  "asilmedia": {
@@ -145,7 +145,7 @@
    "title": "Tutun odam / Bug' gaz erkak 2026 Koreya seriali"
   },
   "18405": {
-   "badge": "6-qism",
+   "badge": "1-fasl to'liq",
    "quality": "1080p, 480p",
    "seen": 1791480826,
    "title": "Laki 2026"
@@ -169,7 +169,7 @@
    "title": "Orol Koreya dorama seriali 2022"
   },
   "18440": {
-   "badge": "3-fasl 14-qism",
+   "badge": "3-fasl 15-qism",
    "quality": "1080p, 480p",
    "seen": 1790755193,
    "title": "Najot shifoxonasi / Ustoz Kim Koreya seriali 2016"
@@ -688,6 +688,12 @@
    "quality": "1080p, 720p, 480p",
    "seen": 1792157349,
    "title": "So'nggi Buyruq 2 / Sayohatchi 2 2026"
+  },
+  "18638": {
+   "badge": "",
+   "quality": "1080p, 480p",
+   "seen": 1792172395,
+   "title": "100 kunlik yolg'on Koreya dorama seriali 2026 Yuz kun yashirin"
   }
  },
  "uzmovi": {
