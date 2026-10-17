@@ -1,6 +1,8 @@
 {
  "_order": {
   "asilmedia": [
+   "18509",
+   "18426",
    "18640",
    "18639",
    "18440",
@@ -21,7 +23,6 @@
    "18439",
    "18168",
    "17018",
-   "18509",
    "18628",
    "18627",
    "18626",
@@ -29,7 +30,6 @@
    "18585",
    "18551",
    "15916",
-   "18426",
    "18624",
    "18623",
    "18523",
@@ -157,7 +157,7 @@
    "title": "Sakamoto kundaligi / Sakamotoning kunlari 2026 Yaponiya filmi"
   },
   "18426": {
-   "badge": "5-qism!",
+   "badge": "6-qism!",
    "quality": "1080p, 480p",
    "seen": 1791667711,
    "title": "Nanyang jumbog'i / Janubiy arxivlar Xitoy seriali"
@@ -217,7 +217,7 @@
    "title": "Shiddatli hujum Premyera 2026"
   },
   "18509": {
-   "badge": "4-qism",
+   "badge": "5-qism",
    "quality": "1080p, 480p",
    "seen": 1791112845,
    "title": "Erta bahor 2026 Xitoy seriali"
