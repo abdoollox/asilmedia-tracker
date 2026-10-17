@@ -1,6 +1,13 @@
 {
  "_order": {
   "asilmedia": [
+   "18643",
+   "18581",
+   "18645",
+   "18644",
+   "18641",
+   "18642",
+   "18314",
    "18509",
    "18426",
    "18640",
@@ -29,14 +36,7 @@
    "18625",
    "18585",
    "18551",
-   "15916",
-   "18624",
-   "18623",
-   "18523",
-   "18582",
-   "18622",
-   "18621",
-   "18620"
+   "15916"
   ],
   "uzmovi": [
    "9048",
@@ -133,7 +133,7 @@
    "title": "Yo'ldagi mashinalar / Chaqmoq Makvin va Metrning yangi sarguzashtlari 2022"
   },
   "18314": {
-   "badge": "2-fasl 2-qism",
+   "badge": "2-fasl 4-qism",
    "quality": "720p",
    "seen": 1791239331,
    "title": "Sevganim sensan 2026"
@@ -362,6 +362,7 @@
   },
   "18581": {
    "badge": "",
+   "quality": "1080p, 720p, 480p",
    "seen": 1790755193,
    "title": "Jonajon uy: Qayta tug'ilish / Qadrli uyimiz: Qayta tug'ilish 2025"
   },
@@ -705,6 +706,36 @@
    "badge": "",
    "seen": 1792190904,
    "title": "Arshin mol olon / Arshin molchi 1965"
+  },
+  "18641": {
+   "badge": "6-qism",
+   "quality": "1080p",
+   "seen": 1792242190,
+   "title": "La'natlangan Koreya seriali 2022"
+  },
+  "18642": {
+   "badge": "",
+   "quality": "1080p, 720p, 480p",
+   "seen": 1792242190,
+   "title": "Ona zamin 2016"
+  },
+  "18643": {
+   "badge": "20-qism",
+   "quality": "1080p",
+   "seen": 1792242190,
+   "title": "Sirli maslahatchi 2025"
+  },
+  "18644": {
+   "badge": "",
+   "quality": "1080p, 720p, 480p",
+   "seen": 1792242190,
+   "title": "Florist / Gul sotuvchisi 2026"
+  },
+  "18645": {
+   "badge": "17-qism",
+   "quality": "1080p",
+   "seen": 1792242190,
+   "title": "Meni tingla / Meni eshit Turk seriali 2022"
   }
  },
  "uzmovi": {
