@@ -39,6 +39,8 @@
    "18551"
   ],
   "uzmovi": [
+   "9049",
+   "9050",
    "9048",
    "9047",
    "9045",
@@ -96,9 +98,7 @@
    "8971",
    "8970",
    "8969",
-   "8968",
-   "8967",
-   "8966"
+   "8968"
   ]
  },
  "asilmedia": {
@@ -1349,6 +1349,17 @@
    "badge": "Sat, 17 Oct 2026 04:37:00 +0500",
    "seen": 1792198192,
    "title": "Kuydirgi jigarim 2026 yangi qozoq seriali"
+  },
+  "9049": {
+   "badge": "Sat, 17 Oct 2026 23:30:00 +0500",
+   "seen": 1792285140,
+   "title": "Vijinning izlanishi vijin boshqotirmasi Kvesti premyera marvel serial 2026 serial uzbek o‘zbek tilida onlayn ko‘rish"
+  },
+  "9050": {
+   "badge": "",
+   "date": "Sat, 17 Oct 2026 21:05:00 +0500",
+   "seen": 1792285140,
+   "title": "Astral 6: Ular shu yerda / Yanada uzoqroq  2026 premyera kino uzbek o‘zbek tilida onlayn ko‘rish"
   }
  }
 }
