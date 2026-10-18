@@ -1,6 +1,8 @@
 {
  "_order": {
   "asilmedia": [
+   "18588",
+   "18647",
    "18645",
    "18646",
    "18643",
@@ -34,13 +36,9 @@
    "18628",
    "18627",
    "18626",
-   "18625",
-   "18585",
-   "18551"
+   "18625"
   ],
   "uzmovi": [
-   "9049",
-   "9050",
    "9048",
    "9047",
    "9045",
@@ -98,7 +96,9 @@
    "8971",
    "8970",
    "8969",
-   "8968"
+   "8968",
+   "8967",
+   "8966"
   ]
  },
  "asilmedia": {
@@ -616,7 +616,7 @@
    "badge": "",
    "quality": "1080p, 720p, 480p",
    "seen": 1791755591,
-   "title": "Taqdir o'yinlari / Bir oila 2010"
+   "title": "Taqdir o'yinlari / Taqdir hazillari / Bir oila 2010"
   },
   "18626": {
    "badge": "",
@@ -742,6 +742,12 @@
    "quality": "1080p, 480p",
    "seen": 1792254118,
    "title": "Vijnning izlanishi /  Vijinning jumbog'i 2026"
+  },
+  "18647": {
+   "badge": "",
+   "quality": "1080p, 720p, 480p",
+   "seen": 1792317377,
+   "title": "Taqdir o'yinlari 2 / Taqdir hazillari / Bir oila 2012"
   }
  },
  "uzmovi": {
