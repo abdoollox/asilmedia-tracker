@@ -39,6 +39,7 @@
    "17018"
   ],
   "uzmovi": [
+   "9051",
    "9049",
    "9050",
    "9048",
@@ -97,8 +98,7 @@
    "8972",
    "8971",
    "8970",
-   "8969",
-   "8968"
+   "8969"
   ]
  },
  "asilmedia": {
@@ -1384,6 +1384,12 @@
    "date": "Sat, 17 Oct 2026 21:05:00 +0500",
    "seen": 1792285140,
    "title": "Astral 6: Ular shu yerda / Yanada uzoqroq  2026 premyera kino uzbek o‘zbek tilida onlayn ko‘rish"
+  },
+  "9051": {
+   "badge": "",
+   "date": "Mon, 19 Oct 2026 03:16:00 +0500",
+   "seen": 1792374645,
+   "title": "Matchboks. Film: Xavfli missiya 2026 premyera kino uzbek o‘zbek tilida onlayn ko‘rish"
   }
  }
 }
