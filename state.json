@@ -1,6 +1,9 @@
 {
  "_order": {
   "asilmedia": [
+   "18653",
+   "18646",
+   "18439",
    "18651",
    "17018",
    "18607",
@@ -10,7 +13,6 @@
    "18588",
    "18647",
    "18645",
-   "18646",
    "18643",
    "18581",
    "18644",
@@ -34,9 +36,7 @@
    "18632",
    "18631",
    "18630",
-   "18493",
-   "18629",
-   "18439"
+   "18493"
   ],
   "uzmovi": [
    "9051",
@@ -163,7 +163,7 @@
    "title": "Nanyang jumbog'i / Janubiy arxivlar Xitoy seriali"
   },
   "18439": {
-   "badge": "2-qism",
+   "badge": "3-qism",
    "quality": "1080p, 480p",
    "seen": 1791823841,
    "title": "Orol Koreya dorama seriali 2022"
@@ -646,7 +646,7 @@
    "badge": "",
    "quality": "1080p, 720p, 480p",
    "seen": 1792056238,
-   "title": "Srikanth / Srikanth Bolla 2024"
+   "title": "Shrikant Bolla / Voz kechilgan o'g'il 2024"
   },
   "18631": {
    "badge": "",
@@ -738,7 +738,7 @@
    "title": "Meni tingla / Meni eshit Turk seriali 2022"
   },
   "18646": {
-   "badge": "",
+   "badge": "1-qism",
    "quality": "1080p, 480p",
    "seen": 1792254118,
    "title": "Vijnning izlanishi /  Vijinning jumbog'i 2026"
@@ -771,7 +771,13 @@
    "badge": "",
    "quality": "1080p, 720p, 480p",
    "seen": 1792394694,
-   "title": "Matchboks - xavfli missiya / Xavfli topshiriq 2026"
+   "title": "Matchboks - Xavfli missiya / Xavfli topshiriq 2026"
+  },
+  "18653": {
+   "badge": "",
+   "quality": "1080p, 720p, 480p",
+   "seen": 1792421599,
+   "title": "Sirli o'lim / Agadha 2026"
   }
  },
  "uzmovi": {
