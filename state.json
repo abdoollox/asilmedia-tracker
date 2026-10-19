@@ -1,6 +1,8 @@
 {
  "_order": {
   "asilmedia": [
+   "18651",
+   "17018",
    "18607",
    "18650",
    "18649",
@@ -34,9 +36,7 @@
    "18630",
    "18493",
    "18629",
-   "18439",
-   "18168",
-   "17018"
+   "18439"
   ],
   "uzmovi": [
    "9051",
@@ -121,7 +121,7 @@
    "title": "Jek Richer seriali"
   },
   "17018": {
-   "badge": "4-fasl 10-qism!",
+   "badge": "4-fasl 11-qism!",
    "quality": "1080p, 720p, 480p",
    "seen": 1790755193,
    "title": "Qalqon agentlari"
@@ -766,6 +766,12 @@
    "quality": "1080p, 720p, 480p",
    "seen": 1792351503,
    "title": "Adashgan soya 2024 Premyera"
+  },
+  "18651": {
+   "badge": "",
+   "quality": "1080p, 720p, 480p",
+   "seen": 1792394694,
+   "title": "Matchboks - xavfli missiya / Xavfli topshiriq 2026"
   }
  },
  "uzmovi": {
