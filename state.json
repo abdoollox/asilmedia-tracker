@@ -1,6 +1,9 @@
 {
  "_order": {
   "asilmedia": [
+   "18655",
+   "18323",
+   "18654",
    "13644",
    "18440",
    "18653",
@@ -33,10 +36,7 @@
    "18635",
    "18634",
    "18633",
-   "18632",
-   "18631",
-   "18630",
-   "18493"
+   "18632"
   ],
   "uzmovi": [
    "9051",
@@ -137,6 +137,12 @@
    "quality": "720p",
    "seen": 1791239331,
    "title": "Sevganim sensan 2026"
+  },
+  "18323": {
+   "badge": "1-qism",
+   "quality": "1080p, 480p",
+   "seen": 1792506147,
+   "title": "Qog'oz bino: Berlin va Oq suvsar tutgan xonim 2026"
   },
   "18398": {
    "badge": "5-qism",
@@ -778,6 +784,18 @@
    "quality": "1080p, 720p, 480p",
    "seen": 1792421599,
    "title": "Sirli o'lim / Agadha 2026"
+  },
+  "18654": {
+   "badge": "",
+   "quality": "480p",
+   "seen": 1792506147,
+   "title": "Sakrash huquqi 1972"
+  },
+  "18655": {
+   "badge": "",
+   "quality": "1080p, 720p, 480p",
+   "seen": 1792506147,
+   "title": "Sukut jazosi 2026 Hind kino"
   }
  },
  "uzmovi": {
