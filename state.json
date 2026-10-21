@@ -39,6 +39,9 @@
    "18634"
   ],
   "uzmovi": [
+   "9054",
+   "9053",
+   "9052",
    "9051",
    "9049",
    "9050",
@@ -95,10 +98,7 @@
    "8979",
    "8978",
    "8973",
-   "8972",
-   "8971",
-   "8970",
-   "8969"
+   "8972"
   ]
  },
  "asilmedia": {
@@ -1426,6 +1426,24 @@
    "date": "Mon, 19 Oct 2026 03:16:00 +0500",
    "seen": 1792374645,
    "title": "Matchboks. Film: Xavfli missiya 2026 premyera kino uzbek o‘zbek tilida onlayn ko‘rish"
+  },
+  "9052": {
+   "badge": "",
+   "date": "Wed, 21 Oct 2026 15:17:00 +0500",
+   "seen": 1792595573,
+   "title": "Onasining qizi 2026 premyera hind kino uzbek o‘zbek tilida onlayn ko‘rish"
+  },
+  "9053": {
+   "badge": "",
+   "date": "Wed, 21 Oct 2026 15:23:00 +0500",
+   "seen": 1792595573,
+   "title": "Insoniylik chegarasi / Hayvonlar 2026 premyera kino uzbek o‘zbek tilida onlayn ko‘rish"
+  },
+  "9054": {
+   "badge": "",
+   "date": "Wed, 21 Oct 2026 16:37:00 +0500",
+   "seen": 1792595573,
+   "title": "Sukut jazosi / Puja, mening sevgilim 2026 premyera hind kino uzbek o‘zbek tilida onlayn ko‘rish"
   }
  }
 }
