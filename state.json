@@ -1,6 +1,8 @@
 {
  "_order": {
   "asilmedia": [
+   "15916",
+   "18070",
    "18646",
    "18655",
    "18323",
@@ -34,9 +36,7 @@
    "18398",
    "18636",
    "18635",
-   "18634",
-   "18633",
-   "18632"
+   "18634"
   ],
   "uzmovi": [
    "9051",
@@ -115,7 +115,7 @@
    "title": "Yengilmas / Непобедимый / Invincible AQSH seriali"
   },
   "15916": {
-   "badge": "4-fasl 4-qism!",
+   "badge": "4-fasl 5-qism!",
    "quality": "1080p, 480p",
    "seen": 1790771786,
    "title": "Jek Richer seriali"
@@ -125,6 +125,12 @@
    "quality": "1080p, 720p, 480p",
    "seen": 1790755193,
    "title": "Qalqon agentlari"
+  },
+  "18070": {
+   "badge": "1-qism",
+   "quality": "1080p, 480p",
+   "seen": 1792577253,
+   "title": "JoJoning g'aroyib sarguzashtlari Anime"
   },
   "18168": {
    "badge": "1-fasl to'liq",
@@ -753,7 +759,7 @@
    "badge": "",
    "quality": "1080p, 720p, 480p",
    "seen": 1792317377,
-   "title": "Taqdir o'yinlari 2 / Taqdir hazillari / Bir oila 2012"
+   "title": "Taqdir o'yinlari 2 / Taqdir hazillari 2 / Bir oila 2 2012"
   },
   "18648": {
    "badge": "",
