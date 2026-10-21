@@ -1,6 +1,7 @@
 {
  "_order": {
   "asilmedia": [
+   "18660",
    "18659",
    "18658",
    "18657",
@@ -35,8 +36,7 @@
    "18639",
    "18638",
    "18405",
-   "18637",
-   "18398"
+   "18637"
   ],
   "uzmovi": [
    "9053",
@@ -712,7 +712,7 @@
    "badge": "",
    "quality": "1080p, 720p, 480p",
    "seen": 1792181148,
-   "title": "Taqdiridan Norozilar / G'aroyib hikoyalar / Ajoyib dostonlar / G‘ayrioddiy tarix 2021Uzbek tilida"
+   "title": "Taqdiridan Norozilar / G'aroyib hikoyalar / Ajoyib dostonlar / G‘ayrioddiy tarix 2021"
   },
   "18640": {
    "badge": "",
@@ -820,6 +820,12 @@
    "quality": "1080p, 720p, 480p",
    "seen": 1792610504,
    "title": "Insoniylik chegarasi 2026"
+  },
+  "18660": {
+   "badge": "",
+   "quality": "1080p, 720p, 480p",
+   "seen": 1792622168,
+   "title": "Adolat Izlagan Ota 2026"
   }
  },
  "uzmovi": {
