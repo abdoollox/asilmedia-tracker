@@ -1,6 +1,9 @@
 {
  "_order": {
   "asilmedia": [
+   "18659",
+   "18658",
+   "18657",
    "15916",
    "18070",
    "18646",
@@ -33,14 +36,13 @@
    "18638",
    "18405",
    "18637",
-   "18398",
-   "18636",
-   "18635",
-   "18634"
+   "18398"
   ],
   "uzmovi": [
-   "9054",
    "9053",
+   "9056",
+   "9055",
+   "9054",
    "9052",
    "9051",
    "9049",
@@ -96,9 +98,7 @@
    "8981",
    "8980",
    "8979",
-   "8978",
-   "8973",
-   "8972"
+   "8978"
   ]
  },
  "asilmedia": {
@@ -802,6 +802,24 @@
    "quality": "1080p, 720p, 480p",
    "seen": 1792506147,
    "title": "Sukut jazosi / Jimlikning oqibati 2026 Hind kino"
+  },
+  "18657": {
+   "badge": "",
+   "quality": "1080p, 720p, 480p",
+   "seen": 1792610504,
+   "title": "Biologik xavf 2026 Qo'rqinchli Premyera"
+  },
+  "18658": {
+   "badge": "",
+   "quality": "1080p, 720p, 480p",
+   "seen": 1792610504,
+   "title": "Onaning mahluqi 2 / Ona tuqqan mahluq 2 / Ajdarhoning onasi 2 2026"
+  },
+  "18659": {
+   "badge": "",
+   "quality": "1080p, 720p, 480p",
+   "seen": 1792610504,
+   "title": "Insoniylik chegarasi 2026"
   }
  },
  "uzmovi": {
@@ -1435,7 +1453,7 @@
   },
   "9053": {
    "badge": "",
-   "date": "Wed, 21 Oct 2026 15:23:00 +0500",
+   "date": "Wed, 21 Oct 2026 21:27:00 +0500",
    "seen": 1792595573,
    "title": "Insoniylik chegarasi / Hayvonlar 2026 premyera kino uzbek o‘zbek tilida onlayn ko‘rish"
   },
@@ -1444,6 +1462,18 @@
    "date": "Wed, 21 Oct 2026 16:37:00 +0500",
    "seen": 1792595573,
    "title": "Sukut jazosi / Puja, mening sevgilim 2026 premyera hind kino uzbek o‘zbek tilida onlayn ko‘rish"
+  },
+  "9055": {
+   "badge": "",
+   "date": "Wed, 21 Oct 2026 21:05:00 +0500",
+   "seen": 1792610504,
+   "title": "Sirli ölım o'lim / Agadha 2026 premyera hind kino uzbek o‘zbek tilida onlayn ko‘rish"
+  },
+  "9056": {
+   "badge": "",
+   "date": "Wed, 21 Oct 2026 21:20:00 +0500",
+   "seen": 1792610504,
+   "title": "Hindiston hikoyasi / Adolat izlagan ota 2026 premyera kino uzbek o‘zbek özbek tilida onlayn ko‘rish"
   }
  }
 }
