@@ -1,6 +1,9 @@
 {
  "_order": {
   "asilmedia": [
+   "18661",
+   "17018",
+   "18426",
    "18314",
    "18660",
    "18659",
@@ -17,7 +20,6 @@
    "18653",
    "18439",
    "18651",
-   "17018",
    "18607",
    "18650",
    "18649",
@@ -31,12 +33,10 @@
    "18641",
    "18642",
    "18509",
-   "18426",
    "18640",
    "18639",
    "18638",
-   "18405",
-   "18637"
+   "18405"
   ],
   "uzmovi": [
    "9053",
@@ -121,7 +121,7 @@
    "title": "Jek Richer seriali"
   },
   "17018": {
-   "badge": "4-fasl 11-qism!",
+   "badge": "4-fasl 12-qism!",
    "quality": "1080p, 720p, 480p",
    "seen": 1790755193,
    "title": "Qalqon agentlari"
@@ -169,7 +169,7 @@
    "title": "Sakamoto kundaligi / Sakamotoning kunlari 2026 Yaponiya filmi"
   },
   "18426": {
-   "badge": "6-qism!",
+   "badge": "7-qism!",
    "quality": "1080p, 480p",
    "seen": 1791667711,
    "title": "Nanyang jumbog'i / Janubiy arxivlar Xitoy seriali"
@@ -825,7 +825,12 @@
    "badge": "",
    "quality": "1080p, 720p, 480p",
    "seen": 1792622168,
-   "title": "Adolat Izlagan Ota 2026"
+   "title": "Hindiston tarixi / Adolat izlagan ota 2026"
+  },
+  "18661": {
+   "badge": "",
+   "seen": 1792683691,
+   "title": "Aka turk kinosi / Mommo 2009"
   }
  },
  "uzmovi": {
