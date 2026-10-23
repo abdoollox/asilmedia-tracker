@@ -1,6 +1,7 @@
 {
  "_order": {
   "asilmedia": [
+   "18398",
    "18665",
    "18664",
    "18509",
@@ -35,8 +36,7 @@
    "18643",
    "18581",
    "18644",
-   "18641",
-   "18642"
+   "18641"
   ],
   "uzmovi": [
    "9060",
@@ -151,7 +151,7 @@
    "title": "Qog'oz bino: Berlin va Oq suvsar tutgan xonim 2026"
   },
   "18398": {
-   "badge": "5-qism",
+   "badge": "6-qism",
    "quality": "1080p, 480p",
    "seen": 1791512783,
    "title": "Tutun odam / Bug' gaz erkak 2026 Koreya seriali"
@@ -854,7 +854,7 @@
    "badge": "",
    "quality": "1080p, 720p, 480p",
    "seen": 1792770864,
-   "title": "Sidjin 8 / Sijjin 8 / Sijin 8 / Sidjjin 82025 Qo'rqinchli Turk kino Premyera"
+   "title": "Sidjin 8 / Sijjin 8 / Sijin 8 / Sidjjin 8 2025 Qo'rqinchli Turk kino Premyera"
   }
  },
  "uzmovi": {
