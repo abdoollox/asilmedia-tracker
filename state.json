@@ -1,6 +1,7 @@
 {
  "_order": {
   "asilmedia": [
+   "18667",
    "18398",
    "18665",
    "18664",
@@ -35,10 +36,10 @@
    "18645",
    "18643",
    "18581",
-   "18644",
-   "18641"
+   "18644"
   ],
   "uzmovi": [
+   "9061",
    "9060",
    "9059",
    "9058",
@@ -97,8 +98,7 @@
    "8990",
    "8989",
    "8988",
-   "8983",
-   "8982"
+   "8983"
   ]
  },
  "asilmedia": {
@@ -855,6 +855,12 @@
    "quality": "1080p, 720p, 480p",
    "seen": 1792770864,
    "title": "Sidjin 8 / Sijjin 8 / Sijin 8 / Sidjjin 8 2025 Qo'rqinchli Turk kino Premyera"
+  },
+  "18667": {
+   "badge": "",
+   "quality": "1080p, 720p, 480p",
+   "seen": 1792795311,
+   "title": "De Goll: Qarshilik / Ozod Fransiya / De Goll 1-qism: Qarshilik harakati / Fransiya uchun kurash / Kurashning boshlanishi 2026 Fransiya filmi"
   }
  },
  "uzmovi": {
@@ -1533,6 +1539,12 @@
    "date": "Thu, 22 Oct 2026 19:42:00 +0500",
    "seen": 1792697621,
    "title": "12 Rojdestvo yangi yil itlari: Kuchuklar boshpanasini qutqarish kino uzbek o‘zbek tilida onlayn ko‘rish"
+  },
+  "9061": {
+   "badge": "",
+   "date": "Fri, 23 Oct 2026 16:48:00 +0500",
+   "seen": 1792795311,
+   "title": "Aka / Mommo kino uzbek o‘zbek tilida onlayn ko‘rish"
   }
  }
 }
