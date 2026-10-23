@@ -1,6 +1,8 @@
 {
  "_order": {
   "asilmedia": [
+   "18665",
+   "18664",
    "18509",
    "18439",
    "18663",
@@ -34,9 +36,7 @@
    "18581",
    "18644",
    "18641",
-   "18642",
-   "18640",
-   "18639"
+   "18642"
   ],
   "uzmovi": [
    "9060",
@@ -801,7 +801,7 @@
    "badge": "",
    "quality": "1080p, 720p, 480p",
    "seen": 1792506147,
-   "title": "Sukut jazosi / Jimlikning oqibati 2026 Hind kino"
+   "title": "Sukut jazosi / Jimlikning oqibati / Jonim Puja / Sevgilim Pooja / Azizam Puja / Jonim Puja 2026 Hind kino"
   },
   "18657": {
    "badge": "",
@@ -843,6 +843,18 @@
    "quality": "1080p, 720p, 480p",
    "seen": 1792709070,
    "title": "12 Rojdestvo itlari 2 / Rojdestvo itlari: Katta itlarni qutqarish / Rojdestvoni 12 iti 2 2012"
+  },
+  "18664": {
+   "badge": "",
+   "quality": "1080p, 720p, 480p",
+   "seen": 1792770864,
+   "title": "Sevishingni isbotla / Ozod / Erkin / Azaad / Азаад 2025"
+  },
+  "18665": {
+   "badge": "",
+   "quality": "1080p, 720p, 480p",
+   "seen": 1792770864,
+   "title": "Sidjin 8 / Sijjin 8 / Sijin 8 / Sidjjin 82025 Qo'rqinchli Turk kino Premyera"
   }
  },
  "uzmovi": {
