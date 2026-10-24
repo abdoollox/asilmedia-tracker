@@ -1,6 +1,7 @@
 {
  "_order": {
   "asilmedia": [
+   "18668",
    "18323",
    "18509",
    "18292",
@@ -35,8 +36,7 @@
    "18588",
    "18647",
    "18645",
-   "18643",
-   "18581"
+   "18643"
   ],
   "uzmovi": [
    "9061",
@@ -867,6 +867,12 @@
    "quality": "1080p, 720p, 480p",
    "seen": 1792795311,
    "title": "De Goll: Qarshilik / Ozod Fransiya / De Goll 1-qism: Qarshilik harakati / Fransiya uchun kurash / Kurashning boshlanishi 2026 Fransiya filmi"
+  },
+  "18668": {
+   "badge": "",
+   "quality": "1080p, 720p, 480p",
+   "seen": 1792850923,
+   "title": "Ota bo'lish oson emas / Vishvanath va uning o'g'illari 2026 / Vishvanat 2026"
   }
  },
  "uzmovi": {
