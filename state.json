@@ -1,6 +1,7 @@
 {
  "_order": {
   "asilmedia": [
+   "18670",
    "18669",
    "18668",
    "18323",
@@ -35,10 +36,10 @@
    "18649",
    "18648",
    "18588",
-   "18647",
-   "18645"
+   "18647"
   ],
   "uzmovi": [
+   "9062",
    "9061",
    "9060",
    "9059",
@@ -97,8 +98,7 @@
    "8991",
    "8990",
    "8989",
-   "8988",
-   "8983"
+   "8988"
   ]
  },
  "asilmedia": {
@@ -879,6 +879,12 @@
    "quality": "1080p, 720p, 480p",
    "seen": 1792862815,
    "title": "Sidjin 9 / Sijjin 9 2026 Qo'rqinchli Turk kino Premyera"
+  },
+  "18670": {
+   "badge": "",
+   "quality": "1080p, 480p",
+   "seen": 1792870933,
+   "title": "Chuqurlik 2026"
   }
  },
  "uzmovi": {
@@ -1563,6 +1569,11 @@
    "date": "Fri, 23 Oct 2026 16:48:00 +0500",
    "seen": 1792795311,
    "title": "Aka / Mommo kino uzbek o‘zbek tilida onlayn ko‘rish"
+  },
+  "9062": {
+   "badge": "Sat, 24 Oct 2026 17:16:00 +0500",
+   "seen": 1792870933,
+   "title": "Qizil g'unchalar turk serial premyera serial uzbek o‘zbek tilida onlayn ko‘rish"
   }
  }
 }
