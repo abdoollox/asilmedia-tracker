@@ -1,6 +1,7 @@
 {
  "_order": {
   "asilmedia": [
+   "18669",
    "18668",
    "18323",
    "18509",
@@ -35,8 +36,7 @@
    "18648",
    "18588",
    "18647",
-   "18645",
-   "18643"
+   "18645"
   ],
   "uzmovi": [
    "9061",
@@ -873,6 +873,12 @@
    "quality": "1080p, 720p, 480p",
    "seen": 1792850923,
    "title": "Ota bo'lish oson emas / Vishvanath va uning o'g'illari 2026 / Vishvanat 2026"
+  },
+  "18669": {
+   "badge": "",
+   "quality": "1080p, 720p, 480p",
+   "seen": 1792862815,
+   "title": "Sidjin 9 / Sijjin 9 2026 Qo'rqinchli Turk kino Premyera"
   }
  },
  "uzmovi": {
