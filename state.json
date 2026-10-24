@@ -1,11 +1,13 @@
 {
  "_order": {
   "asilmedia": [
+   "18323",
+   "18509",
+   "18292",
    "18667",
    "18398",
    "18665",
    "18664",
-   "18509",
    "18439",
    "18663",
    "18662",
@@ -21,7 +23,6 @@
    "18070",
    "18646",
    "18655",
-   "18323",
    "18654",
    "13644",
    "18440",
@@ -35,10 +36,10 @@
    "18647",
    "18645",
    "18643",
-   "18581",
-   "18644"
+   "18581"
   ],
   "uzmovi": [
+   "9061",
    "9060",
    "9059",
    "9058",
@@ -97,8 +98,7 @@
    "8990",
    "8989",
    "8988",
-   "8983",
-   "8982"
+   "8983"
   ]
  },
  "asilmedia": {
@@ -138,6 +138,12 @@
    "seen": 1791982538,
    "title": "Yo'ldagi mashinalar / Chaqmoq Makvin va Metrning yangi sarguzashtlari 2022"
   },
+  "18292": {
+   "badge": "1-qism",
+   "quality": "1080p, 480p",
+   "seen": 1792838876,
+   "title": "Soya olami iblislari / Narigi dunyo tsugaylari Anime"
+  },
   "18314": {
    "badge": "2-fasl 5-qism",
    "quality": "720p",
@@ -145,7 +151,7 @@
    "title": "Sevganim sensan 2026"
   },
   "18323": {
-   "badge": "1-qism",
+   "badge": "2-qism",
    "quality": "1080p, 480p",
    "seen": 1792506147,
    "title": "Qog'oz bino: Berlin va Oq suvsar tutgan xonim 2026"
